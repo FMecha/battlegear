@@ -1,0 +1,140 @@
+
+site_name: Side by Side and Battle Gear Archive
+site_description: Side by Side and Battle Gear Archive: A website covering Taito's Battle Gear series (including Side by Side) of coin-op racing games.
+site_url: https://fmecha.github.io/battlegear
+repo_url: https://github.com/FMecha/battlegear
+repo_name: fmecha/battlegear
+
+copyright: Created and authored by FMecha. This website is not affiliated or associated with Taito Corporation.
+
+theme:
+  name: material
+  logo: images/logo.png
+  favicon: images/favicon.png
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.footer
+    - navigation.top
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - toc.integrate
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+    - content.action.edit
+    - content.code.annotate
+    - header.autohide
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: white
+      accent: orange
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate 
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode    
+      primary: black
+      accent: dark green
+
+nav:
+  - Main Page: index.md
+
+  - Side by Side:
+    - Index: sidebs/index.md
+    - Side by Side: sidebs/sbs1.md
+    - Side by Side 2 Evoluzione: sidebs/sbs2.md
+    - Side by Side Special: sidebs/sbss.md
+
+  - Battle Gear:
+    - Index: batlgear/index.md
+    - Battle Gear: batlgear/bg1.md
+    - Battle Gear 2: batlgear/bg2.md
+    - Battle Gear 3 & BG3 Tuned: batlgear/bg3.md
+    - Battle Gear 4 & BG4 Tuned: batlgear/bg4.md
+
+  - Related Games:
+    - Index: related/index.md
+    - Stunt Typhoon: related/styphoon.md
+    - D1GP Arcade: related/d1gp.md
+    - Top Speed (2009): related/topspeed.md
+
+  - Other:
+    - Index: other/index.md
+    - NESYS: other/nesys.md
+    - Music: other/music.md
+    - Taito v. Honda USA: other/honda.md
+    - Media References: other/refs.md
+    - Staff Cars: other/staffcar.md
+    - Car History: other/carhistory.md
+
+  - Credits and Links:
+      - credits.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.mark
+  - pymdownx.keys
+  - pymdownx.critic
+  - pymdownx.tilde
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - git-committers:
+      repository: fmecha/battlegear
+      branch: master
+  - social:
+      cards_color:
+        fill: "#3E3E3E"
+  - search:
+      lang: en
+  - glightbox
+  - blog:
+      draft: true
+      blog_toc: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/FMecha
+
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@FMecha
+
+    - icon: fontawesome/house
+      link: https://linktr.ee/FMecha
+      
+extra_css:
+  - stylesheets/extra.css
