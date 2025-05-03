@@ -26,12 +26,12 @@ WIP
 
 WIP
 
-## Changes
+# Changes
 
-### Arcade games vs *Special*
+## Arcade games vs *Special*
 
 WIP
 
-### *Special* vs *Special 2000*
+## *Special* vs *Special 2000*
 
 WIP
