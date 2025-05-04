@@ -11,7 +11,7 @@ The original *Side by Side* is considered one of the rarest games nowadays, as m
 - [Flyer](https://flyers.arcade-museum.com/videogames/show/4549)
 
 !!! note 
-    If you are emulating any Taito JC System game in MAME, you should be running version 0.266 with `-cheat` switch and set the CPU overclock to at least 200%. [Properly overclocked, it should run like this.](https://www.youtube.com/watch?v=hY-vNodNSN0) Currently, Taito JC games suffer from a slowdown due to imperfect CPU emulation. [Starting from version 0.267,](https://github.com/mamedev/mame/commit/3d357c07c0ca824868bbe7586839c8caae236571#diff-2fc8ed920c6dc8de6019a9cde02d47e52e622912f49e6e03a5544471103b32d4) changes in Motorola 68000 FPU emulation has made the performance worse, even overclocked.
+    If you are emulating any Taito JC System game in MAME, you should be running version 0.266 with `-cheat` switch and overclock the `maincpu`, `sub`, and `dsp` CPUs to at least 200%. [Properly overclocked, it should run like this.](https://www.youtube.com/watch?v=hY-vNodNSN0) Currently, Taito JC games suffer from a slowdown due to imperfect CPU emulation. [Starting from version 0.267,](https://github.com/mamedev/mame/commit/3d357c07c0ca824868bbe7586839c8caae236571#diff-2fc8ed920c6dc8de6019a9cde02d47e52e622912f49e6e03a5544471103b32d4) changes in Motorola 68000 FPU emulation has made the performance worse, even overclocked.
 
 !!! warning 
     For the first *Side by Side* in particular, if you win a race with overclocked CPU as mentioned above, [MAME can also crash](https://mametesters.org/view.php?id=8852) if you reach the Congratulations screen.
