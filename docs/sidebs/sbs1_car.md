@@ -1,4 +1,4 @@
-The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.md) There are eight cars from Japan's major automakers are featured, each with two cars per car number class [(3-number and 5-number).](https://en.wikipedia.org/wiki/Vehicle_size_class#Japan)
+The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.md) Eight cars from Japan's major automakers are featured, each with two cars per car number class [(3-number and 5-number).](https://en.wikipedia.org/wiki/Vehicle_size_class#Japan)
 
 [Video of the game's attract mode showing car specifications (music added for video purposes)](https://www.youtube.com/watch?v=cmusY-KHMt8)
 
@@ -57,3 +57,11 @@ The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.m
 * **Notes:**
   * Color: Brilliant Black
   * "Efini" is mispelled as "Enfini" in the car selection screen, and not used in the English version as the badging was used only in Japan.
+
+# Toyota AE86 Trueno GT-V
+
+# Nissan S13 Silvia K's
+
+# Honda EG6 Civic SiR
+
+# Mazda FC3S Savanna RX-7 ∞
