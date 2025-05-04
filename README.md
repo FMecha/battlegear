@@ -15,4 +15,4 @@ In creating this website, I would give special thanks to the following who inspi
 * Every Indonesian arcade that keeps their *Side by Side*/*Battle Gear* cabinets running. Big thanks in particular to Timezone Istana Plaza (Bandung), for keeping their English *Battle Gear 3* cabinet running (as of December 2024; moved from Bandung Indah Plaza/BIP in mid-2024) and various Sky Games (a low-to-mid tier arcade chain) locations for having at least one Taito racer in every of their arcade that I went.
 * Various people in the retro racing game community, especially the Japanese arcade-goers.
 * The people in the *Tokyo Xtreme Racer*/*Shutokou Battle* Discord server, as I originally noted most of the stuff there. Special thanks in particular for [JDR99](https://www.youtube.com/@JDR99) and [TeddyVLK](https://www.youtube.com/@TEddyVLK) among them.
-* [Nenkai's GT Modding Hub,](http://nenkai.github.io/gt-modding-hub/), which serves as a major influence/inspiration on this website's design.
+* [Nenkai's GT Modding Hub,](http://nenkai.github.io/gt-modding-hub/) which serves as a major influence/inspiration on this website's design.
