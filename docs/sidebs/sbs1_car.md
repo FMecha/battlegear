@@ -28,7 +28,7 @@ The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.m
     <br>37.5kg-m/3500r.p.m.
 * **Drivetrain:** 4WD
 * **Notes:**
-  * Color: Indy Yellow Pearl
+  * Color: Champion Blue (LM Limited)
     * Color changed to Sonic Silver Metallic in *Side by Side Special*, possibly to match car driven by Takayuki Kuroki from *Wangan Midnight*.
   * Chassis code updated to full form (BCNR33) in *Side by Side Special*. 
 
