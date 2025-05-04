@@ -129,7 +129,7 @@ extra:
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/@FMecha
 
-    - icon: fontawesome/house
+    - icon: fontawesome/solid/house
       link: https://linktr.ee/FMecha
       
 extra_css:
