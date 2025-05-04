@@ -1,7 +1,5 @@
 # battlegear
 
-*If you are seeing this on `fmecha.github.io/battlegear`, it means the website is currently under construction. Come back soon!*
-
 A website covering Taito's *Battle Gear* series (including *Side by Side*) of coin-op racing games.
 
 In creating this website, I would give special thanks to the following who inspired me for this website:
