@@ -9,8 +9,8 @@ copyright: Created and authored by FMecha. This website is not affiliated or ass
 
 theme:
   name: material
-  logo: images/logo.png
-  favicon: images/favicon.png
+  #logo: images/logo.png
+  #favicon: images/favicon.png
 
   features:
     - navigation.tabs
@@ -90,8 +90,7 @@ nav:
     - Staff Cars: other/staffcar.md
     - Car History: other/carhistory.md
 
-  - Credits and Links:
-      - credits.md
+  - Credits and Links: credits.md
 
 markdown_extensions:
   - toc:
@@ -143,7 +142,7 @@ extra:
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/@FMecha
 
-    - icon: fontawesome/house
+    - icon: fontawesome/solid/house
       link: https://linktr.ee/FMecha
       
 extra_css:
