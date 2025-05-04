@@ -77,8 +77,7 @@ nav:
     - Staff Cars: other/staffcar.md
     - Car History: other/carhistory.md
 
-  - Credits and Links:
-      - credits.md
+  - Credits and Links: credits.md
 
 markdown_extensions:
   - toc:
