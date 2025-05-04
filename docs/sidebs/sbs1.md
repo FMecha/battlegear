@@ -4,6 +4,8 @@
 
 The first game in the series, [released in July 1996 in Japan,](https://archive.org/details/ArcadeGameList1971-2005/page/n46/mode/1up?view=theater) with the 2005 edition of *Domestic and Overseas Arcade Game List* [reporting an US release the month prior](https://archive.org/details/ArcadeGameList1971-2005/page/n138/mode/1up?view=theater) - which, if it did saw release there, appeared to be one of the company's few last releases before their American operations shuttered around the same year. (Taito USA's address is still listed in the game's flyer, coincidentally; however, the only known English version of the game was compiled in September 1996.)
 
+The original *Side by Side* is considered one of the rarest games nowadays, as most of them (in original twin cabinet configuration) were seemingly converted to its sequel, [*Side by Side 2 Evoluzione*.](../sidebs/sbs2.md)
+
 - [Official website (Wayback Machine)](https://web.archive.org/web/19970516075330/http://www.taito.co.jp/gm/index.htm)
 - [TCRF page](https://tcrf.net/Side_by_Side)
 - [Flyer](https://flyers.arcade-museum.com/videogames/show/4549)
