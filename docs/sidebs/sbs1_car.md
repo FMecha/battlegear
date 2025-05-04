@@ -43,6 +43,7 @@ The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.m
 * **Drivetrain:** MR
 * **Notes:**
   * Color: Indy Yellow Pearl
+  * Equipped with a three-spoke wheel.
   * "V6" is mispelled as "VG" in the original game's spec sheet, which was fixed for the NA2 NSX in the first *Battle Gear.* For the purpose of this website, the corrected spelling has been included.
  
 # Mazda FD3S efini RX-7 RZ
@@ -59,9 +60,57 @@ The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.m
   * "Efini" is mispelled as "Enfini" in the car selection screen, and not used in the English version as the badging was used only in Japan.
 
 # Toyota AE86 Trueno GT-V
+![TOYOTA AE86 TRUENO GT-V](https://web.archive.org/web/19970516135959im_/http://www.taito.co.jp/gm/T86.gif)
+* **Dimension:** 4205mm×1625mm×1335mm
+* **Weight:** 940 kg
+* **Engine:** 4A-GEU DOHC 4 Valve
+    <br>1587cc
+    <br>130PS/6600r.p.m.+α
+    <br>15.2kg-m/5200r.p.m.+α
+* **Drivetrain:** FR
+* **Notes:**
+  * Color: High-Tech Two-Tone
+  * Equipped with RS Watanabe 8-Spoke wheels.
 
 # Nissan S13 Silvia K's
+![NISSAN S13 SILVIA K'S](https://web.archive.org/web/19970516135951im_/http://www.taito.co.jp/gm/S13_TES.gif)
+* **Dimension:** 4470mm×1690mm×1290mm
+* **Weight:** 1190 kg
+* **Engine:** SR20DET Twin Cam Turbo
+    <br>1998cc
+    <br>205PS/6000r.p.m.+α
+    <br>28.0kg-m/4000r.p.m.+α
+* **Drivetrain:** FR
+* **Notes:**
+  * Color: Pink (not an Nissan factory color)
+     * Color changed to Super Red in *Side by Side Special*.
+  * Equipped with a three-spoke wheel, which was changed to a mesh wheel as used by the 180SX in *Side by Side Special*, and an optional front grill.
+  * As the car has an SR20DET engine, the chassis code should be technically "PS13". This was never corrected in *Side by Side Special*.
 
 # Honda EG6 Civic SiR
+![HONDA EG6 CIVIC SiR](https://web.archive.org/web/19970516140006im_/http://www.taito.co.jp/gm/CIVIC_TE.gif)
+* **Dimension:** 4070mm×1695mm×1350mm
+* **Weight:** 1040 kg
+* **Engine:** B16A DOHC VTEC
+    <br>1595cc
+    <br>170PS/7800r.p.m.+α
+    <br>16.0kg-m/7300r.p.m.+α
+* **Drivetrain:** FF
+* **Notes:**
+  * Color: Samba Green Pearl (not a Honda factory color for EG Civic, but was offered on the Del Sol; loose apparoximation)
+     * Color changed to Granada Black Pearl in *Side by Side 2* and to maroon loosely based on Milano Red in *Side by Side Special*.
 
 # Mazda FC3S Savanna RX-7 ∞
+![MAZDA FC3S SAVANNA RX-7 ∞](https://web.archive.org/web/19970516140013im_/http://www.taito.co.jp/gm/FC_TES.gif)
+* **Dimension:** 4335mm×1690mm×1270mm
+* **Weight:** 1250 kg
+* **Engine:** 13BT RE Twin Turbo
+    <br>654×2cc
+    <br>215PS/6500r.p.m.+α
+    <br>27.5kg-m/3500r.p.m.+α
+* **Drivetrain:** FR
+* **Notes:**
+  * Color: Blaze Red (loose; has orange tone in-game, though in website render it does have true red shade)
+     * Color likely chosen as a reference to *Top Speed*/*Full Throttle*, Taito's earlier arcade game that starred a (zenki) FC RX-7.  
+     * Color changed to Crystal White in *Side by Side 2*.
+  * Savanna name not used in the English version, as the car was sold without that moniker outside of Japan. 
