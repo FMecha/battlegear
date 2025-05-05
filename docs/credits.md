@@ -22,7 +22,7 @@
 * [mokonaXVI's website (all contents in Japanese)](https://mokonaxvi.sakura.ne.jp/)
   * [Type-Zero page](https://mokonaxvi.sakura.ne.jp/typezero/st.htm)
   * [*Battle Gear 3* page](https://mokonaxvi.sakura.ne.jp/xvi/bg3ac/index.htm)
-* [Side by Side/Battle Gear series on The Cutting Room Floor](https://tcrf.net/Category:Side_by_Side/Battle_Gear_series)
+* [*Side by Side*/*Battle Gear* series on The Cutting Room Floor](https://tcrf.net/Category:Side_by_Side/Battle_Gear_series)
 * [Find a *Side by Side*/*Battle Gear* cabinet near you](https://zenius-i-vanisher.com/v5.2/arcades.php) (manually, user-updated)
 
 # Acknoweldgements and Credits
