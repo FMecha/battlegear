@@ -1,4 +1,4 @@
-![Side by Side logo](https://web.archive.org/web/19970516075330im_/http://www.taito.co.jp/gm/LOGO.gif)
+![Side by Side logo](../images/logos/sidebs.gif)
 
 *"No way to let him get ahead of me!"*
 
