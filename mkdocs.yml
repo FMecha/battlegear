@@ -5,7 +5,7 @@ site_url: https://fmecha.github.io/battlegear
 repo_url: https://github.com/FMecha/battlegear
 repo_name: fmecha/battlegear
 
-copyright: Created and authored by FMecha. This website is not affiliated or associated with Taito Corporation.
+copyright: Created by FMecha. This website is not affiliated or associated with Taito Corporation.
 
 theme:
   name: material
