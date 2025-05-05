@@ -44,7 +44,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode    
       primary: black
-      accent: dark green
+      accent: dark blue
 
 nav:
   - Main Page: index.md
@@ -67,6 +67,7 @@ nav:
     - Battle Gear 3 & BG3 Tuned: batlgear/bg3.md
     - Battle Gear 3 PS2 Version: batlgear/bg3_ps2.md
     - Battle Gear 4 & BG4 Tuned: batlgear/bg4.md
+    - Mobile Games: batlgear/keitai.md
     - Type-Zero Era Cars: batlgear/typezero_car.md
     - Type-Zero Era Tracks: batlgear/typezero_tracks.md
     - BG3 and BG3T Cars: batlgear/bg3_car.md
