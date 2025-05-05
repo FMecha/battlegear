@@ -1,4 +1,4 @@
-![Side by Side 2 logo](https://web.archive.org/web/19971012061831im_/http://www.taito.co.jp/sbs2/title.gif)
+![Side by Side 2 Evoluzione logo](../images/logos/sidebs2.gif)
 
 *Nice to see ya again.*
 
