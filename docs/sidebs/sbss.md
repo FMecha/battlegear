@@ -10,7 +10,7 @@ WIP
 
 ## Builds
 
-This game and its arcade counterpart, *Side by Side 2*, appears to be developed simultaneously time, as an mistake caught [in an flyer for *Side by Side 2*](../../images/etc/sbs2_flyer.png) was present here and never fixed in *Special 2000*.
+This game and its arcade counterpart, *Side by Side 2*, appears to be developed simultaneously time, as an mistake caught [in an flyer for *Side by Side 2*](../../images/etc/sbs2_flyer.jpg) was present here and never fixed in *Special 2000*.
 
 Product Code | Build Date | Release Date | Title | Notes
 ------ | ------ | ------ | ------ | ------ |
