@@ -1,4 +1,4 @@
-![Side by Side 2 Evoluzione logo](../images/logos/sidebs2.gif)
+![Side by Side 2 Evoluzione logo](/images/logos/sidebs2.gif)
 
 *Nice to see ya again.*
 
