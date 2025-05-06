@@ -59,8 +59,8 @@ The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.m
   * Color: Brilliant Black
   * "Efini" is mispelled as "Enfini" in the car selection screen, and not used in the English version as the badging was used only in Japan.
 
-# Toyota AE86 Trueno GT-V
-![TOYOTA AE86 TRUENO GT-V](/images/cars/sbs1/sidebs_ae86t.png)
+# Toyota AE86 Trueno GTV
+![TOYOTA AE86 TRUENO GTV](/images/cars/sbs1/sidebs_ae86t.png)
 * **Dimension:** 4205mm×1625mm×1335mm
 * **Weight:** 940 kg
 * **Engine:** 4A-GEU DOHC 4 Valve
