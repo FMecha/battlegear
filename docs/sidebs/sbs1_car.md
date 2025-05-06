@@ -3,7 +3,6 @@ The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.m
 [Video of the game's attract mode showing car specifications (music added for video purposes)](https://www.youtube.com/watch?v=cmusY-KHMt8)
 
 ## Toyota JZA80 Supra RZ
-
 ![TOYOTA JZA80 SUPRA RZ](/images/cars/sbs1/sidebs_jza80.png)
 * **Dimension:** 4520mm×1810mm×1275mm
 * **Weight:** 1490 kg
@@ -18,7 +17,6 @@ The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.m
   * Equipped with JGTC-style centerlock wheels and rear license plate garnish (dealer option), the latter removed in *Side by Side Special*.
  
 ## Nissan R33 Skyline GT-R
-
 ![NISSAN R33 SKYLINE GT-R](/images/cars/sbs1/sidebs_bcnr33.png)
 * **Dimension:** 4675mm×1780mm×1360mm
 * **Weight:** 1530 kg
