@@ -12,7 +12,7 @@ WIP
 # Builds
 
 Build Tag | Language/Region | Dump Status | Notes
------- | ------ | ------ | ------ |
+------ | ------ | ------ | ------
 Unknown | Japanese, original | Undumped | Earlier builds are known to exist with swapped month labels for the Professional (July) and Ace Driver (October) courses, [as shown on the flyer,](/images/etc/sbs2_flyer.jpg) although they were either location testing or internal use builds. Although this mistake was fixed for all known arcade versions, it was never fixed in any version of *Side by Side Special.*
 `SIDE BY SIDE2 VER 2.4 J 1997/ 5/26 3:06:37` | Japanese, original | In MAME (`sidebs2ja`) | Earliest known base Japanese version. This build has the month labels for the July and October tracks in the correct position. Added in MAME version 0.124u2.
 `SIDE BY SIDE2 VER 2.6 OK 1997/ 6/ 4 17:27:37` | English | In MAME (`sidebs2`) | International English version; `K` in region tag probably means South Korea ("Overseas + Korea"?) Honda cars are available, but trim badges were removed from them. A cabinet with this ROM has not been spotted in the wild, although PCBs do exist given how it is dumped and present in MAME (since version 0.175).
