@@ -63,3 +63,4 @@ This update adds the following features:
 ## Others
 
 - When in attract demo, pressing the View Change button will change the currently focused car.
+- When selecting a track, holding the View Change button will race with only player car(s) on the grid (called "Deathmatch" in the English versions).
