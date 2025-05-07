@@ -44,4 +44,6 @@ See the [SBS Tracks page.](/sidebs/tracks.md)
 
 ## Others
 
-- By default, races run for three laps. The operator can set this to be between two to five laps. (All races on SBS1 tracks in *Side by Side Special* are three laps long as that game lacks the option to set how long races can be.)
+- By default, races run for three laps. The operator can set this to be between two to six laps. (All races on SBS1 tracks in *Side by Side Special* are three laps long as that game lacks the option to set how long races can be.)
+!!! note
+    All machines must have the same amount of laps set if they are linked, or the game's multiplayer will break where players with less laps set will always win the race.
