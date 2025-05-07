@@ -42,9 +42,9 @@ There are two English versions of the game, one with region `OK` (international)
 
 Otherwise, both are identical to the non-Japanese RR revision.
 
-## Side by Side 2 Evoluzione RR
+## *Side by Side 2 Evoluzione RR*
 
-In late 1997, Taito released an update to the original game in form of [ROM upgrade kit](https://twitter.com/pooka11509574/status/1239179856727781376/photo/1) for owners of the original revision of the game. (It might be also possible that later production runs of the game already have the *RR* update installed, as most installations tend to have the update installed. Cabinets with the RR update are distinguished with a sticker indicating the new features on the cabinet marquee (*R*everse and *R*eplay), although some cabinets may not have them installed. The game's title screen is also updated with the "RR" letters.
+In late 1997, Taito released an update to the original game in form of [ROM upgrade kit](https://twitter.com/pooka11509574/status/1239179856727781376/photo/1) for owners of the original revision of the game. (It might be also possible that later production runs of the game already have the *RR* update installed, as most installations tend to have the update installed.) Cabinets with the RR update are distinguished with a sticker indicating the new features on the cabinet marquee (*R*everse and *R*eplay), although some cabinets may not have them installed. The game's title screen is also updated with the "RR" letters.
 
 This update adds the following features:
 * Reverse courses, selectable by shifting up/down when selecting a track. Lap records for both layouts are also seperated.
@@ -55,4 +55,4 @@ This update adds the following features:
 
 # Others
 
-- When in attract demo, pressing the View Change button will change currently focused car.
+- When in attract demo, pressing the View Change button will change the currently focused car.
