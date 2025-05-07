@@ -1,4 +1,4 @@
-![Side by Side logo](/images/logos/sidebs.gif)
+![Side by Side logo](../images/logos/sidebs.gif)
 
 *"No way to let him get ahead of me!"*
 
