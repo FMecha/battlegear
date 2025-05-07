@@ -260,7 +260,7 @@ Some of these cars also have different rims to distinguish:
     <br>339PS/9000r.p.m.
     <br>30.0kg-m/7500r.p.m.
 
-###### Toyota AE86 Trueno GTV, Toyota AE86 Levin GT Apex
+###### Toyota AE86 Trueno GTV, Toyota AE86 Levin GT-Apex
 ![TOYOTA AE86 LEVIN GT APEX](../images/cars/sbs2/sidebs2_ae86l_com.png)
 
 * **Weight:** 800 kg
