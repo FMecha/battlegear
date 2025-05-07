@@ -15,7 +15,7 @@ The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.m
    <br>44.0kg.m/3500r.p.m.
 * **Drivetrain:** FR
 ??? note "Notes"
-    * Color: Silver Metallic Graphite (changed to Super White II in *Side by Side Special*)
+    * Color: Silver Metallic Graphite; changed to Super White II in *Side by Side Special*.
     * Equipped with JGTC-style centerlock wheels and rear license plate garnish (dealer option), the latter removed in *Side by Side Special*.
  
 ## Nissan R33 Skyline GT-R
@@ -29,7 +29,7 @@ The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.m
     <br>37.5kg-m/3500r.p.m.
 * **Drivetrain:** 4WD
 ??? note "Notes"
-    * Color: Champion Blue (LM Limited) (changed to Sonic Silver Metallic in *Side by Side Special*, possibly to match car driven by Takayuki Kuroki from *Wangan Midnight*?)
+    * Color: Champion Blue (LM Limited); changed to Sonic Silver Metallic in *Side by Side Special*, possibly to match car driven by Takayuki Kuroki from *Wangan Midnight*?
     * Chassis code updated to full form (BCNR33) in *Side by Side Special*. 
 
 ## Honda NA1 NSX
@@ -86,8 +86,8 @@ The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.m
     <br>28.0kg-m/4000r.p.m.+α
 * **Drivetrain:** FR
 ??? note "Notes"
-    * Color: Pink (not an Nissan factory color; changed to Super Red in *Side by Side Special*)
-    * Equipped with a three-spoke wheel, which was changed to a mesh wheel as used by the 180SX in *Side by Side Special*, and an optional front grill.
+    * Color: Pink (not an Nissan factory color); changed to Super Red in *Side by Side Special*.
+    * Equipped with a three-spoke wheel (Yokohama Super Advan SA3R), which was changed to a mesh wheel as used by the 180SX in *Side by Side Special*, and an optional front grill.
     * As the car has an SR20DET engine, the chassis code should be technically "PS13". This was never corrected in *Side by Side Special*.
 
 ## Honda EG6 Civic SiR
@@ -101,7 +101,7 @@ The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.m
     <br>16.0kg-m/7300r.p.m.+α
 * **Drivetrain:** FF
 ??? note "Notes"
-    * Color: Samba Green Pearl (not a Honda factory color for EG Civic, but was offered on the Del Sol; loose apparoximation. Color changed to Granada Black Pearl in *Side by Side 2* and to maroon loosely based on Milano Red in *Side by Side Special*.)
+    * Color: Samba Green Pearl (not a Honda factory color for EG Civic, but was offered on the Del Sol; loose apparoximation); changed to Granada Black Pearl in *Side by Side 2* and to maroon loosely based on Milano Red in *Side by Side Special*.
 
 ## Mazda FC3S Savanna RX-7 ∞
 ![MAZDA FC3S SAVANNA RX-7 ∞](../images/cars/sbs1/sidebs_fc3s.png)
