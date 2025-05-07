@@ -21,11 +21,11 @@ WIP
 # Builds
 
 Build Tag | Language/Region | Dump Status | Notes
------- | ------ | ------ | ------ |
+------ | ------ | ------ | ------ 
 `SIDE BY SIDE VER 2.5 J 1996/ 6/20 18:13:14` | Japanese | In MAME (`sidebsjb`) | Earliest Japanese version, added to MAME in version 0.81u4.
 `SIDE BY SIDE VER 2.6 J 1996/ 7/ 1 18:41:51` | Japanese | In MAME (`sidebsja`) | Added in MAME in version 0.175.
 `SIDE BY SIDE VER 2.7 J 1996/10/11 14:54:10` | Japanese | In MAME (`sidebsj`)  | Added in MAME in version 0.148u3.
-`SIDE BY SIDE VER 3.0 OK 1996/ 9/ 2 20:04:19` | English | In MAME (`sidebs`) | English version, added in MAME version 0.263.<br>Built two months before Japanese 2.6 version and a month prior to 2.7. `K` in region tag probably means South Korea ("Overseas + Korea"?)<br>In addition to language, the Savanna and Efini branding on the RX-7s are not used.<br>At least one cabinet is known to exist, at [Deck Amusements, Dymchurch, England, as of 2017.](https://www.youtube.com/watch?v=QVYovNG6Rwo&list=PLltO_kA9MwiEGGwsqOokEdJHAga7kJi2M&index=12&pp=gAQBiAQB)
+`SIDE BY SIDE VER 3.0 OK 1996/ 9/ 2 20:04:19` | English | In MAME (`sidebs`) | English version, added in MAME version 0.263. Built two months before Japanese 2.6 version and a month prior to 2.7. `K` in region tag probably means South Korea ("Overseas + Korea"?) In addition to language, the Savanna and Efini branding on the RX-7s are not used. At least one cabinet is known to exist, at [Deck Amusements, Dymchurch, England, as of 2017.](https://www.youtube.com/watch?v=QVYovNG6Rwo&list=PLltO_kA9MwiEGGwsqOokEdJHAga7kJi2M&index=12&pp=gAQBiAQB)
 
 # Cabinets
 
