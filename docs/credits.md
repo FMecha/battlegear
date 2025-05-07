@@ -8,6 +8,7 @@
 * [BG Archives](https://battlegear.net/archives/index.html), an archive of past *Battle Gear* websites
 
 Official websites not covered by Taito's official BG Archives (all Wayback Machine links):
+
 * [*Side by Side*](https://web.archive.org/web/19970516075330/http://www.taito.co.jp/gm/index.htm)
 * [*Side by Side 2 Evoluzione*](https://web.archive.org/web/19971012061831/http://www.taito.co.jp/sbs2/index.html) - please note that car renders and specifications are missing from the archive.
 * [*Battle Gear* (English)](https://web.archive.org/web/20030418154300/http://www.taito.co.jp/gm/bg/index_e.html) - the [Honda USA issue](../other/honda.md) is mentioned here, but not on the bilingual flyer.
@@ -15,6 +16,7 @@ Official websites not covered by Taito's official BG Archives (all Wayback Machi
 * [*Battle Gear 2* (PlayStation 2)](https://web.archive.org/web/20010405205810/http://www.taito.co.jp/d3/cp/bg2/index.html)
 
 Archives of international servers:  
+
 * [world.battlegear.net,](https://web.archive.org/web/20030215185853/http://world.battlegear.net/english/html/rank_menu.html) original English server/ranking website for *Battle Gear 3*
 * [bg3.betson.com,](https://web.archive.org/web/20050210040429/http://bg3.betson.com/garage/main.php) North America *Battle Gear 3* server site
 
