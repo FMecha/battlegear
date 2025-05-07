@@ -17,7 +17,7 @@
 ??? note "Notes"
       * Color: High-Flash Two-Tone
       * Unlike in *Battle Gear* games, the Levin in this game is the 2-door/coupe model.
-      * Trim changed to "GT" from "GT Apex" that it originally had in *Side by Side 2* (although the "Apex" decal is still impliable in the textures). Additionally, in the demo disc build, the game still explicitly refers it as an GT Apex trim.
+      * Trim changed to "GT" from "GT-Apex" that it originally had in *Side by Side 2* (although the "Apex" decal is still impliable in the textures). Additionally, in the demo disc build, the game still explicitly refers it as an GT-Apex trim.
     
 ### Toyota AE86 Trueno GTV
 ![TOYOTA AE86 TRUENO GTV](../images/cars/sbss/sbss_ae86t.png)
@@ -119,7 +119,7 @@
 * **Drivetrain:** FR
 ??? note "Notes"
       * Color: Super Red
-      * Equipped with the same mesh wheel as used by the 180SX (replacing a 3-spoke wheel), and an optional front grill.
+      * Equipped with the same mesh wheel as used by the 180SX (replacing the Yokohama Super Advan SA3R 3-spoke wheel in the original arcade game), and an optional front grill.
       * As the car has an SR20DET engine, the chassis code should be technically "PS13". This was not corrected in *Side by Side Special*.
 
 ### Nissan BNR32 Skyline GT-R
@@ -133,8 +133,7 @@
     <br>36.0kg-m/4400r.p.m.
 * **Drivetrain:** 4WD
 ??? note "Notes"
-      * Color: Black Pearl Metallic (with bluish shade, for some reason)
-        * In the standalone demo disc, the color was explicitly blue.
+      * Color: Black Pearl Metallic (with bluish shade, for some reason; in the standalone demo disc, the color was explicitly blue)
 
 ### Nissan BCNR33 Skyline GT-R
 ![NISSAN BCNR33 SKYLINE GT-R](../images/cars/sbss/sbss_bcnr33.png)
