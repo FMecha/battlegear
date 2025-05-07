@@ -49,6 +49,7 @@ It is unknown how many cabinets are out there with either ROM installed, other t
 In late 1997, Taito released an update to the original game in form of [ROM upgrade kit](https://twitter.com/pooka11509574/status/1239179856727781376/photo/1) for owners of the original revision of the game. (It might be also possible that later production runs of the game already have the *RR* update installed, as most installations tend to have the update installed.) Cabinets with the RR update are distinguished with a sticker indicating the new features on the cabinet marquee (*R*everse and *R*eplay), although some cabinets may not have them installed. The game's title screen is also updated with the "RR" letters.
 
 This update adds the following features:
+
 * Reverse courses, selectable by shifting up/down when selecting a track. Lap records for both layouts are also seperated.
 * Post-race replays if the player finishes (regardless of finishing position). Pressing the view button will end the replay, while view can be changed by shifting gears.
 * The Special/22:00 course is unlocked by default, without need to hold view button after coining up (temporary) or registering a top ranking record (permanent).
