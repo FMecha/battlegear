@@ -227,7 +227,7 @@ Some of these cars also have different rims to distinguish:
 * **Weight:** 1190 kg
 * **Engine:** RB26DETT DOHC Twin Turbo
     <br>2568cc
-    <br>356S/7500r.p.m.
+    <br>356PS/7500r.p.m.
     <br>37.5kg-m/5000r.p.m. 
 
 #### Honda EG-6 Civic SiR
@@ -248,7 +248,7 @@ Some of these cars also have different rims to distinguish:
 * **Weight:** 1200 kg
 * **Engine:** EJ20 16 Valve DOHC Turbo
     <br>1994cc
-    <br>4020PS/6500r.p.m.
+    <br>402PS/6500r.p.m.
     <br>48.0kg-m/4000r.p.m. 
 * **Notes:**
   * Built equivalent to Prodrive World Rally Car spec
