@@ -3,30 +3,35 @@
 !!! note
     All official, Taito-operated website links are in Japanese language only, except otherwise mentioned.
 
+## Official websites
 * [*Battle Gear* (*4 Tuned*) official website](https://battlegear.net/news/index.html)
-  * [BG Archives](https://battlegear.net/archives/index.html), an archive of past *Battle Gear* websites
-* Official websites not covered by Taito's official BG Archives (all Wayback Machine links):
-  *  [*Side by Side*](https://web.archive.org/web/19970516075330/http://www.taito.co.jp/gm/index.htm)
-  *  [*Side by Side 2 Evoluzione*](https://web.archive.org/web/19971012061831/http://www.taito.co.jp/sbs2/index.html) - please note that car renders and specifications are missing from the archive.
-  *  [*Battle Gear* (English)](https://web.archive.org/web/20030418154300/http://www.taito.co.jp/gm/bg/index_e.html) - the [Honda USA issue](../other/honda.md) is mentioned here, but not on the bilingual flyer.
-  *  [*Battle Gear 2* arcade internet rankings](https://web.archive.org/web/20011024015506/http://www.taito.co.jp/gm/bg2/ranking/index_js.html) - registration extended from March 2001 to September due to release of the PS2 port, but only arcade version scores were accepted.
-  *  [*Battle Gear 2* (PlayStation 2)](https://web.archive.org/web/20010405205810/http://www.taito.co.jp/d3/cp/bg2/index.html)
-* Archives of international servers:  
-  *  [world.battlegear.net,](https://web.archive.org/web/20030215185853/http://world.battlegear.net/english/html/rank_menu.html) original English server/ranking website for *Battle Gear 3*
-  *  [bg3.betson.com,](https://web.archive.org/web/20050210040429/http://bg3.betson.com/garage/main.php) North America *Battle Gear 3* server site
-* Regional *Battle Gear 3* community websites:
-  * [Canada: battlegear3.org](https://web.archive.org/web/20031214200935/http://www.battlegear3.org/)
-  * [Malaysia: bg3my.vze.org](https://web.archive.org/web/20040404124749/http://bg3my.vze.com/)
-  * [Hong Kong: bg3.org](https://web.archive.org/web/20030602174123/http://www.bg3.org/)
-  * [South Korea: battlegear3.net](https://web.archive.org/web/20040117125429/http://getbeat.com/bg3/bg3.htm)
-* [mokonaXVI's website (all contents in Japanese)](https://mokonaxvi.sakura.ne.jp/)
-  * [Type-Zero page](https://mokonaxvi.sakura.ne.jp/typezero/st.htm)
-  * [*Battle Gear 3* page](https://mokonaxvi.sakura.ne.jp/xvi/bg3ac/index.htm)
+* [BG Archives](https://battlegear.net/archives/index.html), an archive of past *Battle Gear* websites
+
+Official websites not covered by Taito's official BG Archives (all Wayback Machine links):
+* [*Side by Side*](https://web.archive.org/web/19970516075330/http://www.taito.co.jp/gm/index.htm)
+* [*Side by Side 2 Evoluzione*](https://web.archive.org/web/19971012061831/http://www.taito.co.jp/sbs2/index.html) - please note that car renders and specifications are missing from the archive.
+* [*Battle Gear* (English)](https://web.archive.org/web/20030418154300/http://www.taito.co.jp/gm/bg/index_e.html) - the [Honda USA issue](../other/honda.md) is mentioned here, but not on the bilingual flyer.
+* [*Battle Gear 2* arcade internet rankings](https://web.archive.org/web/20011024015506/http://www.taito.co.jp/gm/bg2/ranking/index_js.html) - registration extended from March 2001 to September due to release of the PS2 port, but only arcade version scores were accepted.
+* [*Battle Gear 2* (PlayStation 2)](https://web.archive.org/web/20010405205810/http://www.taito.co.jp/d3/cp/bg2/index.html)
+
+Archives of international servers:  
+* [world.battlegear.net,](https://web.archive.org/web/20030215185853/http://world.battlegear.net/english/html/rank_menu.html) original English server/ranking website for *Battle Gear 3*
+* [bg3.betson.com,](https://web.archive.org/web/20050210040429/http://bg3.betson.com/garage/main.php) North America *Battle Gear 3* server site
+
+## Regional *Battle Gear 3* community websites (archived)
+* [Canada: battlegear3.org](https://web.archive.org/web/20031214200935/http://www.battlegear3.org/)
+* [Malaysia: bg3my.vze.org](https://web.archive.org/web/20040404124749/http://bg3my.vze.com/)
+* [Hong Kong: bg3.org](https://web.archive.org/web/20030602174123/http://www.bg3.org/)
+* [South Korea: battlegear3.net](https://web.archive.org/web/20040117125429/http://getbeat.com/bg3/bg3.htm)
+
+## Other links
+* [mokonaXVI's website (all contents in Japanese)](https://mokonaxvi.sakura.ne.jp/) ([Type-Zero page](https://mokonaxvi.sakura.ne.jp/typezero/st.htm) / [*Battle Gear 3* page](https://mokonaxvi.sakura.ne.jp/xvi/bg3ac/index.htm))
 * [*Side by Side*/*Battle Gear* series on The Cutting Room Floor](https://tcrf.net/Category:Side_by_Side/Battle_Gear_series)
-* [Find a *Side by Side*/*Battle Gear* cabinet near you](https://zenius-i-vanisher.com/v5.2/arcades.php) (manually, user-updated)
+* [Find a *Side by Side*/*Battle Gear* cabinet near you](https://zenius-i-vanisher.com/v5.2/arcades.php) (may not be always up-to-date or complete)
 
 # Acknoweldgements and Credits
 In creating this website, I would give special thanks to the following who inspired me for this website:
+
 * Taito Corporation, for the games *and* keeping the [*Battle Gear* official website online](https://battlegear.net/news/index.html) for time being, [complete with archived sites for past *Battle Gear* games](https://battlegear.net/archives/index.html)
 * [mokonaXVI](https://mokonaxvi.sakura.ne.jp/) ([on Twitter](https://twitter.com/mokonaXVI) / [on YouTube](https://www.youtube.com/@mokonaXVI))
 * [pooka11509574](https://twitter.com/pooka11509574)
