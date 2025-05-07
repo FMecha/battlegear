@@ -5,12 +5,12 @@ site_url: https://fmecha.github.io/battlegear
 repo_url: https://github.com/FMecha/battlegear
 repo_name: fmecha/battlegear
 
-copyright: Created and authored by FMecha. This website is not affiliated or associated with Taito Corporation.
+copyright: Created by FMecha. This website is not affiliated or associated with Taito Corporation.
 
 theme:
   name: material
-  logo: images/logo.png
-  favicon: images/favicon.png
+  #logo: images/logo.png
+  #favicon: images/favicon.png
 
   features:
     - navigation.tabs
@@ -44,7 +44,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode    
       primary: black
-      accent: dark green
+      accent: dark blue
 
 nav:
   - Main Page: index.md
@@ -54,16 +54,30 @@ nav:
     - Side by Side: sidebs/sbs1.md
     - Side by Side 2 Evoluzione: sidebs/sbs2.md
     - Side by Side Special: sidebs/sbss.md
+    - SBS1 Cars: sidebs/sbs1_car.md
+    - SBS2 Cars: sidebs/sbs2_car.md
+    - SBSS Cars: sidebs/sbss_car.md
+    - Tracks: sidebs/tracks.md
 
   - Battle Gear:
     - Index: batlgear/index.md
     - Battle Gear: batlgear/bg1.md
     - Battle Gear 2: batlgear/bg2.md
+    - Battle Gear 2 PS2 Version: batlgear/bg2_ps2.md
     - Battle Gear 3 & BG3 Tuned: batlgear/bg3.md
+    - Battle Gear 3 PS2 Version: batlgear/bg3_ps2.md
     - Battle Gear 4 & BG4 Tuned: batlgear/bg4.md
+    - Mobile Games: batlgear/keitai.md
+    - Type-Zero Era Cars: batlgear/typezero_car.md
+    - Type-Zero Era Tracks: batlgear/typezero_tracks.md
+    - BG3 and BG3T Cars: batlgear/bg3_car.md
+    - BG3 and BG3T Tracks: batlgear/bg3_tracks.md
+    - BG3 and BG4T Cars: batlgear/bg4_car.md
+    - BG3 and BG4T Tracks: batlgear/bg4_tracks.md
 
   - Related Games:
     - Index: related/index.md
+    - Dangerous Curves: related/dangcurv.md
     - Stunt Typhoon: related/styphoon.md
     - D1GP Arcade: related/d1gp.md
     - Top Speed (2009): related/topspeed.md
