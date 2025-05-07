@@ -1,64 +1,72 @@
 The following are cars available in [*Side by Side 2 Evoluzione*.](../sidebs/sbs2.md) Twelve cars from Japan's major automakers are featured; note that the [Honda cars are disabled in the US (region `A`) version of the game.](../other/honda.md)
 
+Spec data in *italics* are what the in-game cars' true specifications [according to the developers.](https://web.archive.org/web/19971012081536/http://www.taito.co.jp/sbs2/spec.htm) (Because the full car logos were not waybacked, the order on specs on the website goes R32, FD3S, FC3S, RPS13, EG6/EF8, AE86s, GC8, CN9A, and ends at ST205. It is not clear if the AE86 specifications is for the Trueno only, or also for the Levin, due to missing images, although the developers did mention that the ride quality of both cars are exactly the same.)
+
 [Video of the game's attract mode showing car specifications](https://www.youtube.com/watch?v=mmlStC_LSV4)
 
 # Toyota AE86 Levin GT Apex
 ![TOYOTA AE86 LEVIN GT APEX](/images/cars/sbs2/sidebs2_ae86l.png)
 * **Dimension:** 4180mm×1625mm×1335mm
-* **Weight:** 925 kg
+* **Weight:** 925 kg *(800 kg)*
 * **Engine:** 4A-GEU DOHC 4 Valve
-    <br>1587cc
-    <br>130PS/6600r.p.m.+α
-    <br>15.2kg-m/5200r.p.m.+α
+    <br>1587cc *(1762cc from 7A-GEU build)*
+    <br>130PS/6600r.p.m.+α *(190PS/8000r.p.m.)*
+    <br>15.2kg-m/5200r.p.m.+α *(18.0kg-m/7500r.p.m.)*
 * **Drivetrain:** FR
 * *Highlight the Trueno and shift up/down to select this car.* (Except in the `A` version where it replaces the CR-X)
 * **Notes:**
   * Color: High-Flash Two-Tone
   * Unlike in *Battle Gear* games, the Levin in this game is the 2-door/coupe model.
   * Trim changed to "GT" in *Side by Side Special* (although the "Apex" decal is still impliable in the textures), and in Type-Zero era *Battle Gear*, the Levin and Trueno swapped trim levels (GT Apex/GTV).
-
+  * According to the developers, the AE86s have a "full-tune 7A-GEU replacement". Toyota never made an engine designated like this, so it would have been custom build consisting of 7A-FE block and crank mixed with 4A-GE heads and pistons mated with custom connecting rods.
+  * In *Evoluzione RR* update, the AE86s now has a six-speed transmission.
+    
 # Toyota AE86 Trueno GTV
 ![TOYOTA AE86 TRUENO GTV](/images/cars/sbs2/sidebs2_ae86t.png)
 * **Dimension:** 4205mm×1625mm×1335mm
-* **Weight:** 940 kg
+* **Weight:** 940 kg *(800 kg)*
 * **Engine:** 4A-GEU DOHC 4 Valve
-    <br>1587cc
-    <br>130PS/6600r.p.m.+α
-    <br>15.2kg-m/5200r.p.m.+α
+    <br>1587cc *(1762cc from 7A-GEU build)*
+    <br>130PS/6600r.p.m.+α *(190PS/8000r.p.m.)*
+    <br>15.2kg-m/5200r.p.m.+α *(18.0kg-m/7500r.p.m.)*
 * **Drivetrain:** FR
 * **Notes:**
   * Color: High-Tech Two-Tone
   * Equipped with RS Watanabe 8-Spoke wheels.
   * Basically unchanged from the version it has in the first *Side by Side.*
+  * According to the developers, the AE86s have a "full-tune 7A-GEU replacement". Toyota never made an engine designated like this, so it would have been custom build consisting of 7A-FE block and crank mixed with 4A-GE heads and pistons mated with custom connecting rods.
+  * In *Evoluzione RR* update, the AE86s now has a six-speed transmission.
  
 # Honda EF-8 CR-X SiR
 ![HONDA EF-8 CR-X SiR](/images/cars/sbs2/sidebs2_ef8.png)
 * **Dimension:** 3800mm×1675mm×1270mm
-* **Weight:** 970 kg
-* **Engine:** B16A DOHC VTEC
-    <br>1595cc
-    <br>160PS/7600r.p.m.+α
-    <br>15.5kg-m/7300r.p.m.+α
+* **Weight:** 970 kg *(900 kg)*
+* **Engine:** B16A DOHC VTEC *(B18C DOHC VTEC)*
+    <br>1595cc *(1797cc)*
+    <br>160PS/7600r.p.m.+α *(218ps/8250r.p.m)*
+    <br>15.5kg-m/7300r.p.m.+α *(19.0kg-m/8000r.p.m)*
 * **Drivetrain:** FF
 * **Notes:**
   * Color: Torino Red Pearl
   * Equipped with full body color body kit.
   * Only appearance for the CR-X in the *Side by Side*/*Battle Gear* series (barring *Side by Side Special*).
   * Disabled in the US (`A`) version due to the Honda USA licensing issue, and has the SiR badging absent in the international English (`OK`) version.
+  * According to the developers, both the CR-X's and the Civic's tuning menu includes an engine swap, using the B18C from the Integra.
 
 # Honda EG-6 Civic SiR
 ![HONDA EG-6 CIVIC SiR](/images/cars/sbs2/sidebs2_eg6.png)
 * **Dimension:** 4070mm×1695mm×1350mm
-* **Weight:** 1040 kg
-* **Engine:** B16A DOHC VTEC
-    <br>1595cc
-    <br>170PS/7800r.p.m.+α
-    <br>16.0kg-m/7300r.p.m.+α
+* **Weight:** 1040 kg *(900 kg)*
+* **Engine:** B16A DOHC VTEC *(B18C DOHC VTEC)*
+    <br>1595cc *(1797cc)*
+    <br>170PS/7800r.p.m.+α *(218ps/8250r.p.m)*
+    <br>16.0kg-m/7300r.p.m.+α *(19.0kg-m/8000r.p.m)*
 * **Drivetrain:** FF
 * **Notes:**
   * Color: Granada Black Pearl
      * Color changed to to maroon loosely based on Milano Red in *Side by Side Special*.
   * Disabled in the US (`A`) version due to the Honda USA licensing issue, and has the SiR badging absent in the international English (`OK`) version.
+  * According to the developers, both the CR-X's and the Civic's tuning menu includes an engine swap, using the B18C from the Integra.
  
 # Nissan RPS13 180SX
 ![NISSAN RPS13 180SX](/images/cars/sbs2/sidebs2_rps13.png)
@@ -79,8 +87,8 @@ The following are cars available in [*Side by Side 2 Evoluzione*.](../sidebs/sbs
 * **Weight:** 1250 kg
 * **Engine:** 13B-REW Sequential Twin Turbo
     <br>654×2cc
-    <br>265PS/6500r.p.m.
-    <br>28.0kg-m/4000r.p.m.
+    <br>265PS/6500r.p.m. *(293PS/7250r.p.m.)*
+    <br>28.0kg-m/4000r.p.m. *(30.kg-m/6000r.p.m.)*
 * **Drivetrain:** FR
 * **Notes:**
   * Color: Competition Yellow Mica
@@ -93,8 +101,8 @@ The following are cars available in [*Side by Side 2 Evoluzione*.](../sidebs/sbs
 * **Weight:** 1250 kg
 * **Engine:** 13BT RE Twin Turbo
     <br>654×2cc
-    <br>215PS/6500r.p.m.+α
-    <br>27.5kg-m/3500r.p.m.+α
+    <br>215PS/6500r.p.m.+α *(263ps/7000r.p.m.)*
+    <br>27.5kg-m/3500r.p.m.+α *(28.0kg-m/6000r.p.m.)*
 * **Drivetrain:** FR
 * **Notes:**
   * Color: Crystal White
@@ -106,8 +114,8 @@ The following are cars available in [*Side by Side 2 Evoluzione*.](../sidebs/sbs
 * **Weight:** 1430 kg
 * **Engine:** RB26DETT DOHC Twin Turbo
     <br>2568cc
-    <br>280PS/6800r.p.m.
-    <br>36.0kg-m/4400r.p.m.
+    <br>280PS/6800r.p.m. *(397PS/7500 r.p.m.)*
+    <br>36.0kg-m/4400r.p.m. *(40.0kg-m/5500r.p.m.)*
 * **Drivetrain:** 4WD
 * **Notes:**
   * Color: Black Pearl Metallic
@@ -120,8 +128,8 @@ The following are cars available in [*Side by Side 2 Evoluzione*.](../sidebs/sbs
 * **Weight:** 1250 kg
 * **Engine:** EJ20 16 Valve DOHC Turbo
     <br>1994cc
-    <br>280PS/6500r.p.m.
-    <br>33.5kg-m/4000r.p.m.
+    <br>280PS/6500r.p.m. *(283PS/7000r.p.m.)*
+    <br>33.5kg-m/4000r.p.m. 
 * **Drivetrain:** 4WD
 * **Notes:**
   * Color: Sports Blue (V-Limited)
@@ -133,7 +141,7 @@ The following are cars available in [*Side by Side 2 Evoluzione*.](../sidebs/sbs
 * **Weight:** 1350 kg
 * **Engine:** 4G63 16 Valve DOHC Turbo
     <br>1994cc
-    <br>280PS/6500r.p.m.
+    <br>280PS/6500r.p.m. *(293PS/7000 r.p.m.)*
     <br>36.0kg-m/4000r.p.m.
 * **Drivetrain:** 4WD
 * **Notes:**
@@ -147,7 +155,7 @@ The following are cars available in [*Side by Side 2 Evoluzione*.](../sidebs/sbs
 * **Weight:** 1380 kg
 * **Engine:** 3S-GTE 16 Valve DOHC Turbo
     <br>1998cc
-    <br>225PS/6500r.p.m.
+    <br>225PS/6500r.p.m. *(293PS/7000r.p.m.)*
     <br>31.0kg-m/4000r.p.m.
 * **Drivetrain:** 4WD
 * **Notes:**
