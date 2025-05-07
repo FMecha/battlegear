@@ -131,8 +131,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
     <br>36.0kg-m/4400r.p.m. *(40.0kg-m/5500r.p.m.)*
 * **Drivetrain:** 4WD
 ??? note "Notes"
-    * Color: Black Pearl Metallic
-      * The version in *Side by Side Special*, for some reason, has a bluish shade.
+    * Color: Black Pearl Metallic (the version in *Side by Side Special*, for some reason, has a bluish shade)
     * Full form of chassis code (BNR32) is used in car selection screen, but the car specfications screen in attract mode uses shortened form (R32).
     * Dev-described tuning: ECU, air cleaner, exhaust, electronic valve controller, tuned shocks
  
