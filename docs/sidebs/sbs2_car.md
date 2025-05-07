@@ -202,6 +202,7 @@ Some of these cars also have different rims to distinguish:
 * The FD RX-7 gains the mesh wheel as used in the FC RX-7.
 * The EG Civic gains a white 5-spoke wheel as used in the previous *Side by Side* game.
 * The R32 GT-R gains a black 5-spoke wheel as used in the FD RX-7 in the first *Side by Side*.
+* The 180SX gains the silver/gold mesh wheel as used in the AE86 Levin.
 * The AE86 Levin gains a unique steel wheel not used in any other car in either games.
 
 #### Nissan R32 Skyline GT-R
