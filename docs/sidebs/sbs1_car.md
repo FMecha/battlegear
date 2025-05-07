@@ -5,7 +5,7 @@ The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.m
 [Video of the game's attract mode showing car specifications (music added for video purposes)](https://www.youtube.com/watch?v=cmusY-KHMt8)
 
 ## Toyota JZA80 Supra RZ
-![TOYOTA JZA80 SUPRA RZ](../../images/cars/sbs1/sidebs_jza80.png)
+![TOYOTA JZA80 SUPRA RZ](../images/cars/sbs1/sidebs_jza80.png)
 
 * **Dimension:** 4520mm×1810mm×1275mm
 * **Weight:** 1490 kg
@@ -19,7 +19,7 @@ The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.m
     * Equipped with JGTC-style centerlock wheels and rear license plate garnish (dealer option), the latter removed in *Side by Side Special*.
  
 ## Nissan R33 Skyline GT-R
-![NISSAN R33 SKYLINE GT-R](../../images/cars/sbs1/sidebs_bcnr33.png)
+![NISSAN R33 SKYLINE GT-R](../images/cars/sbs1/sidebs_bcnr33.png)
 
 * **Dimension:** 4675mm×1780mm×1360mm
 * **Weight:** 1530 kg
@@ -33,7 +33,7 @@ The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.m
     * Chassis code updated to full form (BCNR33) in *Side by Side Special*. 
 
 ## Honda NA1 NSX
-![HONDA NA1 NSX](../../images/cars/sbs1/sidebs_na1.png)
+![HONDA NA1 NSX](../images/cars/sbs1/sidebs_na1.png)
 
 * **Dimension:** 4430mm×1810mm×1170mm
 * **Weight:** 1350 kg
@@ -48,7 +48,7 @@ The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.m
     * "V6" is mispelled as "VG" in the original game's spec sheet, which was fixed for the NA2 NSX in the first *Battle Gear.* For the purpose of this website, the corrected spelling has been included.
  
 ## Mazda FD3S efini RX-7 RZ
-![MAZDA FD3S efini RX-7 RZ](../../images/cars/sbs1/sidebs_fd3s.png)
+![MAZDA FD3S efini RX-7 RZ](../images/cars/sbs1/sidebs_fd3s.png)
 
 * **Dimension:** 4280mm×1786mm×1230mm
 * **Weight:** 1250 kg
@@ -62,7 +62,7 @@ The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.m
     * "Efini" is mispelled as "Enfini" in the car selection screen, and not used in the English version as the badging was used only in Japan.
 
 ## Toyota AE86 Trueno GTV
-![TOYOTA AE86 TRUENO GTV](../../images/cars/sbs1/sidebs_ae86t.png)
+![TOYOTA AE86 TRUENO GTV](../images/cars/sbs1/sidebs_ae86t.png)
 
 * **Dimension:** 4205mm×1625mm×1335mm
 * **Weight:** 940 kg
@@ -76,7 +76,7 @@ The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.m
     * Equipped with RS Watanabe 8-Spoke wheels.
 
 ## Nissan S13 Silvia K's
-![NISSAN S13 SILVIA K'S](../../images/cars/sbs1/sidebs_s13.png)
+![NISSAN S13 SILVIA K'S](../images/cars/sbs1/sidebs_s13.png)
 
 * **Dimension:** 4470mm×1690mm×1290mm
 * **Weight:** 1190 kg
@@ -91,7 +91,7 @@ The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.m
     * As the car has an SR20DET engine, the chassis code should be technically "PS13". This was never corrected in *Side by Side Special*.
 
 ## Honda EG6 Civic SiR
-![HONDA EG6 CIVIC SiR](../../images/cars/sbs1/sidebs_eg6.png)
+![HONDA EG6 CIVIC SiR](../images/cars/sbs1/sidebs_eg6.png)
 
 * **Dimension:** 4070mm×1695mm×1350mm
 * **Weight:** 1040 kg
@@ -104,7 +104,7 @@ The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.m
     * Color: Samba Green Pearl (not a Honda factory color for EG Civic, but was offered on the Del Sol; loose apparoximation. Color changed to Granada Black Pearl in *Side by Side 2* and to maroon loosely based on Milano Red in *Side by Side Special*.)
 
 ## Mazda FC3S Savanna RX-7 ∞
-![MAZDA FC3S SAVANNA RX-7 ∞](../../images/cars/sbs1/sidebs_fc3s.png)
+![MAZDA FC3S SAVANNA RX-7 ∞](../images/cars/sbs1/sidebs_fc3s.png)
 
 * **Dimension:** 4335mm×1690mm×1270mm
 * **Weight:** 1250 kg
