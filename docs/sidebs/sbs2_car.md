@@ -7,7 +7,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
 [Video of the game's attract mode showing car specifications](https://www.youtube.com/watch?v=mmlStC_LSV4)
 
 ## Toyota AE86 Levin GT Apex
-![TOYOTA AE86 LEVIN GT APEX](/images/cars/sbs2/sidebs2_ae86l.png)
+![TOYOTA AE86 LEVIN GT APEX](../../images/cars/sbs2/sidebs2_ae86l.png)
 
 * **Dimension:** 4180mm×1625mm×1335mm
 * **Weight:** 925 kg *(800 kg)*
@@ -25,7 +25,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
       * In *Evoluzione RR* update, the AE86s now has a six-speed transmission.
     
 ## Toyota AE86 Trueno GTV
-![TOYOTA AE86 TRUENO GTV](/images/cars/sbs2/sidebs2_ae86t.png)
+![TOYOTA AE86 TRUENO GTV](../../images/cars/sbs2/sidebs2_ae86t.png)
 
 * **Dimension:** 4205mm×1625mm×1335mm
 * **Weight:** 940 kg *(800 kg)*
@@ -42,7 +42,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
       * In *Evoluzione RR* update, the AE86s now has a six-speed transmission.
  
 ## Honda EF-8 CR-X SiR
-![HONDA EF-8 CR-X SiR](/images/cars/sbs2/sidebs2_ef8.png)
+![HONDA EF-8 CR-X SiR](../../images/cars/sbs2/sidebs2_ef8.png)
 
 * **Dimension:** 3800mm×1675mm×1270mm
 * **Weight:** 970 kg *(900 kg)*
@@ -59,7 +59,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
       * Dev-described tuning: B18C DOHC VTEC swap, ECU, Super Induction Box air cleaner, muffler, lowering kit
 
 ## Honda EG-6 Civic SiR
-![HONDA EG-6 CIVIC SiR](/images/cars/sbs2/sidebs2_eg6.png)
+![HONDA EG-6 CIVIC SiR](../../images/cars/sbs2/sidebs2_eg6.png)
 
 * **Dimension:** 4070mm×1695mm×1350mm
 * **Weight:** 1040 kg *(900 kg)*
@@ -74,7 +74,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
     * Dev-described tuning: B18C DOHC VTEC swap, ECU, Super Induction Box air cleaner, muffler, lowering kit
  
 ## Nissan RPS13 180SX
-![NISSAN RPS13 180SX](/images/cars/sbs2/sidebs2_rps13.png)
+![NISSAN RPS13 180SX](../../images/cars/sbs2/sidebs2_rps13.png)
 
 * **Dimension:** 4470mm×1690mm×1290mm
 * **Weight:** 1190 kg
@@ -89,7 +89,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
     * Dev-described tuning: ECU, electronic valve controller, air filter, muffler, blow-off valve, lowering kit
 
 ## Mazda FD3S RX-7 RZ
-![MAZDA FD3S RX-7 RZ](/images/cars/sbs2/sidebs2_fd3s.png)
+![MAZDA FD3S RX-7 RZ](../../images/cars/sbs2/sidebs2_fd3s.png)
 
 * **Dimension:** 4280mm×1786mm×1230mm
 * **Weight:** 1250 kg
@@ -105,7 +105,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
     * Dev-described tuning: ECU, intake manifolds, exhaust (megaphone type), lowering kit
 
 ## Mazda FC3S RX-7 ∞
-![MAZDA FC3S RX-7 ∞](/images/cars/sbs2/sidebs2_fc3s.png)
+![MAZDA FC3S RX-7 ∞](../../images/cars/sbs2/sidebs2_fc3s.png)
 
 * **Dimension:** 4335mm×1690mm×1270mm
 * **Weight:** 1250 kg
@@ -120,7 +120,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
     * Dev-described tuning: ECU, intake manifolds, dual muffler, blow-off valve, lowering kit, clutch
 
 ## Nissan BNR32 Skyline GT-R
-![NISSAN BNR32 SKYLINE GT-R](/images/cars/sbs2/sidebs2_bnr32.png)
+![NISSAN BNR32 SKYLINE GT-R](../../images/cars/sbs2/sidebs2_bnr32.png)
 
 * **Dimension:** 4545mm×1755mm×1340mm
 * **Weight:** 1430 kg
@@ -136,7 +136,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
     * Dev-described tuning: ECU, air cleaner, exhaust, electronic valve controller, tuned shocks
  
 ## Subaru GC8 Impreza WRX STi Version III
-![SUBARU GC8 IMPREZA WRX STi VERSION III](/images/cars/sbs2/sidebs2_gc8.png)
+![SUBARU GC8 IMPREZA WRX STi VERSION III](../../images/cars/sbs2/sidebs2_gc8.png)
 
 * **Dimension:** 4340mm×1690mm×1405mm
 * **Weight:** 1250 kg
@@ -151,7 +151,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
     * Dev-described tuning: Misfiring system/anti-lag
 
 ## Mitsubishi CN9A Lancer GSR Evolution IV
-![MITSUBISHI CN9A LANCER GSR EVOLUION IV](/images/cars/sbs2/sidebs2_cn9a.png)
+![MITSUBISHI CN9A LANCER GSR EVOLUION IV](../../images/cars/sbs2/sidebs2_cn9a.png)
 
 * **Dimension:** 4330mm×1690mm×1415mm
 * **Weight:** 1350 kg
@@ -166,7 +166,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
     * Dev-described tuning: Misfiring system/anti-lag
 
 ## Toyota ST205 Celica GT-Four
-![Toyota ST205 CELICA GT-FOUR](/images/cars/sbs2/sidebs2_st205.png)
+![Toyota ST205 CELICA GT-FOUR](../../images/cars/sbs2/sidebs2_st205.png)
 
 * **Dimension:** 4420mm×1750mm×1305mm
 * **Weight:** 1380 kg
@@ -182,7 +182,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
     * Dev-described tuning: ECU, misfiring system/anti-lag, "floating" air restrictor mount (probably the same type that got Toyota Team Europe in trouble with the FIA?)
  
 ## Subaru BG5 Legacy Touring Wagon GT-B
-![Subaru BG5 LEGACY TOURING WAGON GT-B](/images/cars/sbs2/sidebs2_bg5.png)
+![Subaru BG5 LEGACY TOURING WAGON GT-B](../../images/cars/sbs2/sidebs2_bg5.png)
 
 * **Dimension:** 4680mm×1695mm×1490mm
 * **Weight:** 1460 kg
@@ -199,7 +199,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
 ## CPU-Only Cars 
 
 #### Subaru GF8 Impreza WRX STi Station Wagon Version III
-![SUBARU GF8 IMPREZA WRX STi STATION WAGON VERSION III](/images/cars/sbs2/sidebs2_gf8_com.png)
+![SUBARU GF8 IMPREZA WRX STi STATION WAGON VERSION III](../../images/cars/sbs2/sidebs2_gf8_com.png)
 
 A car that only appears as an opponent in April and March tracks, and not selectable by the player. Note that the regularly playable, sedan version of Impreza does not appear as an opponent. Why is this car here in this state is unknown. It is defenitely *not simply* the Impreza texture applied to the Legacy wagon, as this car has different roof rails and spoiler modeling.
 
@@ -218,7 +218,7 @@ Some of these cars also have different rims to distinguish:
 * The AE86 Levin gains a unique steel wheel not used in any other car in either games.
 
 ##### Nissan BNR32 Skyline GT-R
-![NISSAN BNR32 SKYLINE GT-R](/images/cars/sbs2/sidebs2_bnr32_com.png)
+![NISSAN BNR32 SKYLINE GT-R](../../images/cars/sbs2/sidebs2_bnr32_com.png)
 
 * **Weight:** 1430 kg
 * **Engine:** RB26DETT DOHC Twin Turbo
@@ -229,8 +229,8 @@ Some of these cars also have different rims to distinguish:
     * Dev-described tuning: High compression camshaft, upgraded turbos, etc.
 
 ###### Mazda FD3S RX-7 RZ, FC3S RX-7 ∞
-![MAZDA FD3S RX-7 RZ](/images/cars/sbs2/sidebs2_fd3s_com.png)
-![MAZDA FC3S RX-7 ∞](/images/cars/sbs2/sidebs2_fc3s_com.png)
+![MAZDA FD3S RX-7 RZ](../../images/cars/sbs2/sidebs2_fd3s_com.png)
+![MAZDA FC3S RX-7 ∞](../../images/cars/sbs2/sidebs2_fc3s_com.png)
 
 * **Weight:** 1250 kg
 * **Engine:** 20B Rotary Engine
@@ -242,7 +242,7 @@ Some of these cars also have different rims to distinguish:
     * It is not clear if the NA 20B used is a detuned Mazda 787 Group C engine, or Eunos Cosmo's engine with turbo removed (as the 20B-REW on the Eunos Cosmo was turbo only).
  
 ###### Nissan RPS13 180SX
-![NISSAN RPS13 180SX](/images/cars/sbs2/sidebs2_rps13_com.png)
+![NISSAN RPS13 180SX](../../images/cars/sbs2/sidebs2_rps13_com.png)
 
 * **Weight:** 1190 kg
 * **Engine:** RB26DETT DOHC Twin Turbo
@@ -251,7 +251,7 @@ Some of these cars also have different rims to distinguish:
     <br>37.5kg-m/5000r.p.m. 
 
 ###### Honda EG-6 Civic SiR
-![HONDA EG-6 CIVIC SiR](/images/cars/sbs2/sidebs2_eg6_com.png)
+![HONDA EG-6 CIVIC SiR](../../images/cars/sbs2/sidebs2_eg6_com.png)
 
 * **Weight:** 900 kg
 * **Engine:** C30A V6 VTEC
@@ -260,7 +260,7 @@ Some of these cars also have different rims to distinguish:
     <br>30.0kg-m/7500r.p.m.
 
 ###### Toyota AE86 Trueno GTV, Toyota AE86 Levin GT Apex
-![TOYOTA AE86 LEVIN GT APEX](/images/cars/sbs2/sidebs2_ae86l_com.png)
+![TOYOTA AE86 LEVIN GT APEX](../../images/cars/sbs2/sidebs2_ae86l_com.png)
 
 * **Weight:** 800 kg
 * **Engine:** 2JZ-GTE Two-way Twin Turbo
