@@ -97,8 +97,8 @@ Spec data in *italics* are what the in-game cars' true specifications [according
   * Even in the Japanese version, the Efini logo is not used, with blank space where it should be. It likely may have the Efini logo in pre-release builds, before Mazda retired the Efini branding in 1997.
   * Dev-described tuning: ECU, intake manifolds, exhaust (megaphone type), lowering kit
 
-# Mazda FC3S Savanna RX-7 ∞
-![MAZDA FC3S SAVANNA RX-7 ∞](/images/cars/sbs2/sidebs2_fc3s.png)
+# Mazda FC3S RX-7 ∞
+![MAZDA FC3S RX-7 ∞](/images/cars/sbs2/sidebs2_fc3s.png)
 * **Dimension:** 4335mm×1690mm×1270mm
 * **Weight:** 1250 kg
 * **Engine:** 13BT RE Twin Turbo
@@ -108,7 +108,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
 * **Drivetrain:** FR
 * **Notes:**
   * Color: Crystal White
-  * Savanna name not used in the English version, as the car was sold without that moniker outside of Japan. Even in the Japanese version, the Savanna name is also not used in the car selection screen.
+  * Savanna name not used in the English version, as the car was sold without that moniker outside of Japan. Even in the Japanese version, the Savanna name is also not used in the car selection screen, only in the car logo during attract mode.
   * Dev-described tuning: ECU, intake manifolds, dual muffler, blow-off valve, lowering kit, clutch
 
 ## Nissan BNR32 Skyline GT-R
@@ -206,6 +206,7 @@ Some of these cars also have different rims to distinguish:
 * The AE86 Levin gains a unique steel wheel not used in any other car in either games.
 
 #### Nissan R32 Skyline GT-R
+![NISSAN BNR32 SKYLINE GT-R](/images/cars/sbs2/sidebs2_bnr32_com.png)
 * **Weight:** 1430 kg
 * **Engine:** RB26DETT DOHC Twin Turbo
     <br>2568cc
@@ -214,7 +215,9 @@ Some of these cars also have different rims to distinguish:
 * **Notes:**
   * Dev-described tuning: High compression camshaft, upgraded turbos, etc.
 
-#### Mazda FD3S RX-7 RZ, FC3S Savanna RX-7 ∞
+#### Mazda FD3S RX-7 RZ, FC3S RX-7 ∞
+![MAZDA FD3S RX-7 RZ](/images/cars/sbs2/sidebs2_fd3s_com.png)
+![MAZDA FC3S RX-7 ∞](/images/cars/sbs2/sidebs2_fc3s_com.png)
 * **Weight:** 1250 kg
 * **Engine:** 20B Rotary Engine
     <br>654×3cc
@@ -225,6 +228,7 @@ Some of these cars also have different rims to distinguish:
   * It is not clear if the NA 20B used is a detuned Mazda 787 Group C engine, or Eunos Cosmo's engine with turbo removed (as the 20B-REW on the Eunos Cosmo was turbo only).
  
 #### Nissan RPS13 180SX
+![NISSAN RPS13 180SX](/images/cars/sbs2/sidebs2_rps13_com.png)
 * **Weight:** 1190 kg
 * **Engine:** RB26DETT DOHC Twin Turbo
     <br>2568cc
@@ -232,6 +236,7 @@ Some of these cars also have different rims to distinguish:
     <br>37.5kg-m/5000r.p.m. 
 
 #### Honda EG-6 Civic SiR
+![HONDA EG-6 CIVIC SiR](/images/cars/sbs2/sidebs2_eg6_com.png)
 * **Weight:** 900 kg
 * **Engine:** C30A V6 VTEC
     <br>2977cc
@@ -239,11 +244,14 @@ Some of these cars also have different rims to distinguish:
     <br>30.0kg-m/7500r.p.m.
 
 #### Toyota AE86 Trueno GTV, Toyota AE86 Levin GT Apex
+![TOYOTA AE86 LEVIN GT APEX](/images/cars/sbs2/sidebs2_ae86l_com.png)
 * **Weight:** 800 kg
 * **Engine:** 2JZ-GTE Two-way Twin Turbo
    <br>2997cc
    <br>332PS/7000r.p.m.
    <br>44.0kg.m/4000r.p.m.
+* **Notes:**
+  * It is not clear if this tuning also applies to the Levin. However, as the Levin does have changed wheels (the Trueno does not have its wheels changed), only the Levin is pictured here.
 
 #### Subaru GC8 Impreza WRX STi Version III
 * **Weight:** 1200 kg
