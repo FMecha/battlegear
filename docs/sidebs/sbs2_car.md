@@ -217,7 +217,7 @@ Some of these cars also have different rims to distinguish:
 * The 180SX gains the silver/gold mesh wheel as used in the AE86 Levin.
 * The AE86 Levin gains a unique steel wheel not used in any other car in either games.
 
-##### Nissan R32 Skyline GT-R
+##### Nissan BNR32 Skyline GT-R
 ![NISSAN BNR32 SKYLINE GT-R](/images/cars/sbs2/sidebs2_bnr32_com.png)
 
 * **Weight:** 1430 kg
