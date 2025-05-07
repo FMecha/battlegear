@@ -13,7 +13,7 @@ The following are cars available in the [first *Side by Side*.](../sidebs/sbs1.m
 * **Drivetrain:** FR
 * **Notes:**
   * Color: Silver Metallic Graphite
-    * Color changed to white in *Side by Side Special*.
+    * Color changed to Super White II in *Side by Side Special*.
   * Equipped with JGTC-style centerlock wheels and rear license plate garnish (dealer option), the latter removed in *Side by Side Special*.
  
 ## Nissan R33 Skyline GT-R
