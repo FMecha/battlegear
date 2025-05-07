@@ -5,7 +5,7 @@
 
 ## Official websites
 - [*Battle Gear* (*4 Tuned*) official website](https://battlegear.net/news/index.html)
- [BG Archives](https://battlegear.net/archives/index.html), an archive of past *Battle Gear* websites
+- [BG Archives](https://battlegear.net/archives/index.html), an archive of past *Battle Gear* websites
 
 Official websites not covered by Taito's official BG Archives (all Wayback Machine links):
 
