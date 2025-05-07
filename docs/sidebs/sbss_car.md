@@ -227,7 +227,7 @@
 * *Win a race at the Original 1 course to unlock this car.*
 * **Notes:**
   * Based on Nissan AD Van (Y10/N14).
-  * Uses wheels from the Legacy.
+  * Uses wheels from the Legacy. Coincidentally, it is the only other station wagon to be playable in the entire *Side by Side*/*Battle Gear* series.
   * Spelled "Taito Ban" in the original release; corrected to "Taito Van" in *Special 2000.*
   * The "van" name refers to Japanese term for station wagons classified for commercial use.
 
