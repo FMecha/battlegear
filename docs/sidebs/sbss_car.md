@@ -2,7 +2,9 @@
 
 *Side by Side Special* combines the roster of cars from both *Side by Side* arcade games for a total of 16 cars, plus three bonus Taito-branded cars. These secret cars are something not to be fooled, as they have performance advantage compared to the main cars.
 
-## Toyota AE86 Levin GT
+## Toyota
+
+### Toyota AE86 Levin GT
 ![TOYOTA AE86 LEVIN GT](/images/cars/sbss/sbss_ae86l.png)
 
 * **Dimension:** 4180mm×1625mm×1335mm
@@ -17,7 +19,7 @@
   * Unlike in *Battle Gear* games, the Levin in this game is the 2-door/coupe model.
   * Trim changed to "GT" from "GT Apex" that it originally had in *Side by Side 2* (although the "Apex" decal is still impliable in the textures).
     
-## Toyota AE86 Trueno GTV
+### Toyota AE86 Trueno GTV
 ![TOYOTA AE86 TRUENO GTV](/images/cars/sbss/sbss_ae86t.png)
 
 * **Dimension:** 4205mm×1625mm×1335mm
@@ -58,6 +60,8 @@
 ??? note "Notes"
   * Color: Super White II
   * Equipped with JGTC-style centerlock wheels; the rear license plate garnish (dealer option) was removed in this game, although it was present in the standalone demo disc build.
+ 
+## Subaru
 
 ### Subaru BG5 Legacy Touring Wagon GT-B
 ![Subaru BG5 LEGACY TOURING WAGON GT-B](/images/cars/sbss/sbss_bg5.png)
@@ -87,7 +91,9 @@
   * Color: Sports Blue (V-Limited)
   * Equipped with Group A-style wheels.
  
-## Nissan RPS13 180SX
+## Nissan
+ 
+### Nissan RPS13 180SX
 ![NISSAN RPS13 180SX](/images/cars/sbss/sbss_rps13.png)
 
 * **Dimension:** 4470mm×1690mm×1290mm
@@ -101,7 +107,7 @@
   * Color: Impact Blue (not an Nissan factory color)
   * Given the color and bodykit, it is a reference to Mako and Sayuki's Sileighty in *Initial D*, minus the S13 front-end.
 
-## Nissan S13 Silvia K's
+### Nissan S13 Silvia K's
 ![NISSAN S13 SILVIA K'S](/images/cars/sbss/sbss_s13.png)
 
 * **Dimension:** 4470mm×1690mm×1290mm
@@ -144,8 +150,10 @@
   * Color: Sonic Silver Metallic
    * Color likely changed possibly to match car driven by Takayuki Kuroki from *Wangan Midnight*. [In the standalone demo disc,](/images/cars/sbss/sbss_bcnr33_demo.png) the car would have retained the LM Limited Champion Blue color.
   * Wheel changed to that of R32 GT-R's.
+ 
+## Honda
 
-## Honda EF-8 CR-X SiR
+### Honda EF-8 CR-X SiR
 ![HONDA EF-8 CR-X SiR](/images/cars/sbss/sbss_ef8.png)
 
 * **Dimension:** 3800mm×1675mm×1270mm
@@ -161,7 +169,7 @@
   * Only appearance for the CR-X in the *Side by Side*/*Battle Gear* series (barring *Side by Side 2*).
   * Front license plate added.
 
-## Honda EG-6 Civic SiR
+### Honda EG-6 Civic SiR
 ![HONDA EG-6 CIVIC SiR](/images/cars/sbss/sbss_eg6.png)
 
 * **Dimension:** 4070mm×1695mm×1350mm
@@ -176,7 +184,7 @@
     * Color choice likely to reference Shingo Shoji's car in *Initial D*.
     * Originally would have retained the Granada Black Pearl color [in the standalone demo disc.](/images/cars/sbss/sbss_eg6_demo.png) Either way, the car's front license plate reverts to where it was placed in the first *Side by Side*.
 
-## Honda NA1 NSX
+### Honda NA1 NSX
 ![HONDA NA1 NSX](/images/cars/sbss/sbss_na1.png)
 
 * **Dimension:** 4430mm×1810mm×1170mm
@@ -189,8 +197,10 @@
 ??? note "Notes"
   * Color: Indy Yellow Pearl
   * Equipped with a three-spoke wheel.
+ 
+## Mazda
 
-## Mazda FD3S RX-7 RZ
+### Mazda FD3S RX-7 RZ
 ![MAZDA FD3S RX-7 RZ](/images/cars/sbss/sbss_fd3s.png)
 
 * **Dimension:** 4280mm×1786mm×1230mm
@@ -205,7 +215,7 @@
   * Body kit based on Keisuke Takahashi's car from *Initial D*, specifically the First Stage model.
   * Wheel changed to Mazdaspeed 5-spoke to what was the R33 GT-R's wheel in the first *Side by Side*.
 
-## Mazda FC3S Savanna RX-7 ∞
+### Mazda FC3S Savanna RX-7 ∞
 ![MAZDA FC3S SAVANNA RX-7 ∞](/images/cars/sbss/sbss_fc3s.png)
 
 * **Dimension:** 4335mm×1690mm×1270mm
@@ -219,7 +229,9 @@
   * Color: Crystal White
   * Offset front license plate added.
 
-## Mitsubishi CN9A Lancer GSR Evolution IV
+## Mitsubishi
+
+### Mitsubishi CN9A Lancer GSR Evolution IV
 ![MITSUBISHI CN9A LANCER GSR EVOLUION IV](/images/cars/sbss/sbss_cn9a.png)
 
 * **Dimension:** 4330mm×1690mm×1415mm
@@ -232,8 +244,12 @@
 ??? note "Notes"
   * Color: Scotia White
   * Wheel changed to OZ wheel as used in the ST205.
+ 
+## Taito
 
-## Taito Van
+The Taito-branded cars are rewards for winning each of three "original" tracks. The three original tracks created for the port unlocks every six, eight, and ten tracks have been won in Arcade Mode, respectively.
+
+### Taito Van
 ![TAITO VAN](/images/cars/sbss/sbss_van.png)
 
 * **Dimension:** ????mm×????mm×????mm
@@ -250,7 +266,7 @@
   * Spelled "Taito Ban" in the original release; corrected to "Taito Van" in *Special 2000.*
   * The "van" name refers to Japanese term for station wagons classified for commercial use.
 
-## Taito 1BOX
+### Taito 1BOX
 ![TAITO 1BOX](/images/cars/sbss/sbss_1box.png)
 
 * **Dimension:** ????mm×????mm×????mm
@@ -267,7 +283,7 @@
   * The term "1BOX" is the Japanese terminology for minivans/vans with "one box" configuration, hence the term.
   * Originally an traffic car in *Dangerous Curves* that could appear randomly [under certain conditions.](https://www.youtube.com/watch?v=H7NMf0JF2ic) However, the van in that game has a different body shape.
   
-## Taito Truck
+### Taito Truck
 ![TAITO TRACK](/images/cars/sbss/sbss_truck.png)
 
 * **Dimension:** ????mm×????mm×????mm
