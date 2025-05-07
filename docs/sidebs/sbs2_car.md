@@ -199,7 +199,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
 ## CPU-Only Cars 
 
 #### Subaru GF8 Impreza WRX STi Station Wagon Version III
-![SUBARU GC8 IMPREZA WRX STi STATION WAGON VERSION III](/images/cars/sbs2/sidebs2_gf8_com.png)
+![SUBARU GF8 IMPREZA WRX STi STATION WAGON VERSION III](/images/cars/sbs2/sidebs2_gf8_com.png)
 
 A car that only appears as an opponent in April and March tracks, and not selectable by the player. Note that the regularly playable, sedan version of Impreza does not appear as an opponent. Why is this car here in this state is unknown. It is defenitely *not simply* the Impreza texture applied to the Legacy wagon, as this car has different roof rails and spoiler modeling.
 
