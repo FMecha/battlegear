@@ -13,7 +13,7 @@ The second game in the series, [releasing in May 1997 in Japan](https://archive.
 
 WIP
 
-# Builds
+## Builds
 
 Build Tag | Language/Region | Dump Status | Notes
 ------ | ------ | ------ | ------
@@ -23,24 +23,24 @@ Unknown | Japanese, original | Undumped | Earlier builds are known to exist with
 `SIDE BY SIDE2 VER 2.6 A  1997/ 6/19 09:39:22` | English, US | In MAME (`sidebs2u`)  | US English version with [Honda cars disabled](/docs/other/honda.md) (an issue not mentioned in the flyer) and "Winners Don't Use Drugs"/"Recycle It, Don't Trash It" PSAs. It is unknown how many cabinets were actually distributed with this ROM as the game is not mentioned in the US list of the 2005 edition of *Domestic and Overseas Arcade Game List*, [but PCBs do exist.](https://www.youtube.com/watch?v=RVvNLj7oVek) Added in MAME version 0.81u4; despite the rarity, this version was the first one to be dumped and added to MAME.
 `SIDE BY SIDE2 RR VER 3.1 J 1997/10/ 7 13:55:38` | Japanese, RR | In MAME (`sidebs2j`) | *Evoluzione RR* update, only released for the Japanese version. Adds reverse courses (shift when selecting cars) and post-race replays, adjusts shift points for AT users, and more. Most known cabinets are of this revision, either as purchased from an arcade distributor or originally upgraded [through ROM upgrade kit.](https://twitter.com/pooka11509574/status/1239179856727781376/photo/1) Added in MAME version 0.181.
 
-# Cabinets
+## Cabinets
 
 WIP
 
-# Cars
+## Cars
 
 See the [SBS2 Cars page.](/docs/sidebs/sbs2_car.md)
 
-# Tracks
+## Tracks
 
 See the [SBS Tracks page.](/docs/sidebs/tracks.md)
 
 !!! tip
     For non-RR versions only, hold View button after coining up to temporaily unlock the Special course, if the track has not yet been permanently unlocked. (Getting a high score will unlock the track permanently; the track is also unlocked by default in the RR revision.)
 
-# Version Differences
+## Version Differences
 
-## English Versions
+### English Versions
 
 There are two English versions of the game, one with region `OK` (international) and the other with region `A` (US). The `OK` version has Honda cars enabled, but without SiR trim labels. The `A` version has them [disabled](/docs/other/honda.md), with the Legacy and Levin being selectable by default instead. Both versions also have the "Evoluzione" subtitle removed from the game's branding. Note that, in the `A` version where the Honda cars are disabled, the Civic and CR-X logos in the car selection screen is left unchanged.
 
@@ -48,7 +48,7 @@ Otherwise, both are identical to the Japanese non-RR revision.
 
 It is unknown how many cabinets are out there with either ROM installed, other than from PCBs where the dumps originate.
 
-## *Side by Side 2 Evoluzione RR*
+### *Side by Side 2 Evoluzione RR*
 
 In late 1997, Taito released an update to the original game in form of [ROM upgrade kit](https://twitter.com/pooka11509574/status/1239179856727781376/photo/1) for owners of the original revision of the game. (It might be also possible that later production runs of the game already have the *RR* update installed, as most installations tend to have the update installed.) Cabinets with the RR update are distinguished with a sticker indicating the new features on the cabinet marquee (*R*everse and *R*eplay), although some cabinets may not have them installed. The game's title screen is also updated with the "RR" letters.
 
@@ -60,6 +60,6 @@ This update adds the following features:
 * The AE86s (Trueno and Levin) now have six-speed transmission. (This results in the AT/MT indicator no longer being available when driving either, however.)
 * CPU difficulty has been adjusted.
 
-# Others
+## Others
 
 - When in attract demo, pressing the View Change button will change the currently focused car.
