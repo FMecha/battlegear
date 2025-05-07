@@ -40,7 +40,7 @@ See the [SBS Tracks page.](../sidebs/tracks.md)
 
 There are two English versions of the game, one with region `OK` (international) and the other with region `A` (US). The `OK` version has Honda cars enabled, but without SiR trim labels. The `A` version has them [disabled](/other/honda.md), with the Legacy and Levin being selectable by default instead. Both versions also have the "Evoluzione" subtitle removed from the game's branding.
 
-Otherwise, both are identical to the non-Japanese RR revision.
+Otherwise, both are identical to the Japanese non-RR revision.
 
 ## *Side by Side 2 Evoluzione RR*
 
