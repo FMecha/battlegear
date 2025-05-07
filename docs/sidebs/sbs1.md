@@ -41,3 +41,7 @@ See the [SBS Tracks page.](/sidebs/tracks.md)
 
 !!! tip
     Hold View button after coining up to temporaily unlock the Special course.
+
+## Others
+
+- By default, races run for three laps. The operator can set this to be between two to five laps. (All races on SBS1 tracks in *Side by Side Special* are three laps long as that game lacks the option to set how long races can be.)
