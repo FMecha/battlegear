@@ -6,8 +6,8 @@ Spec data in *italics* are what the in-game cars' true specifications [according
 
 [Video of the game's attract mode showing car specifications](https://www.youtube.com/watch?v=mmlStC_LSV4)
 
-## Toyota AE86 Levin GT Apex
-![TOYOTA AE86 LEVIN GT APEX](../images/cars/sbs2/sidebs2_ae86l.png)
+## Toyota AE86 Levin GT-Apex
+![TOYOTA AE86 LEVIN GT-APEX](../images/cars/sbs2/sidebs2_ae86l.png)
 
 * **Dimension:** 4180mm×1625mm×1335mm
 * **Weight:** 925 kg *(800 kg)*
@@ -51,12 +51,13 @@ Spec data in *italics* are what the in-game cars' true specifications [according
     <br>160PS/7600r.p.m.+α *(218ps/8250r.p.m)*
     <br>15.5kg-m/7300r.p.m.+α *(19.0kg-m/8000r.p.m)*
 * **Drivetrain:** FF
+* Disabled in the US (`A`) version due to the Honda USA licensing issue, and has the SiR badging absent in the international English (`OK`) version.
 ??? note "Notes"
       * Color: Torino Red Pearl
       * Equipped with full body color body kit.
       * Only appearance for the CR-X in the *Side by Side*/*Battle Gear* series (barring *Side by Side Special*).
       * Disabled in the US (`A`) version due to the Honda USA licensing issue, and has the SiR badging absent in the international English (`OK`) version.
-      * Dev-described tuning: B18C DOHC VTEC swap, ECU, Super Induction Box air cleaner, muffler, lowering kit
+      * Dev-described tuning: B18C DOHC VTEC swap, ECU, Super Induction Box air cleaner, exhaust, lowering kit
 
 ## Honda EG-6 Civic SiR
 ![HONDA EG-6 CIVIC SiR](../images/cars/sbs2/sidebs2_eg6.png)
@@ -68,10 +69,10 @@ Spec data in *italics* are what the in-game cars' true specifications [according
     <br>170PS/7800r.p.m.+α *(218ps/8250r.p.m)*
     <br>16.0kg-m/7300r.p.m.+α *(19.0kg-m/8000r.p.m)*
 * **Drivetrain:** FF
+* Disabled in the US (`A`) version due to the Honda USA licensing issue, and has the SiR badging absent in the international English (`OK`) version.
 ??? note "Notes"
     * Color: Granada Black Pearl (changed to to maroon loosely based on Milano Red in *Side by Side Special*)
-    * Disabled in the US (`A`) version due to the Honda USA licensing issue, and has the SiR badging absent in the international English (`OK`) version.
-    * Dev-described tuning: B18C DOHC VTEC swap, ECU, Super Induction Box air cleaner, muffler, lowering kit
+    * Dev-described tuning: B18C DOHC VTEC swap, ECU, Super Induction Box air cleaner, exhaust, lowering kit
  
 ## Nissan RPS13 180SX
 ![NISSAN RPS13 180SX](../images/cars/sbs2/sidebs2_rps13.png)
@@ -86,7 +87,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
 ??? note "Notes"
     * Color: Impact Blue (not an Nissan factory color)
     * Given the color and bodykit, it is a reference to Mako and Sayuki's Sileighty in *Initial D*, minus the S13 front-end.
-    * Dev-described tuning: ECU, electronic valve controller, air filter, muffler, blow-off valve, lowering kit
+    * Dev-described tuning: ECU, electronic valve controller, air filter, exhaust, blow-off valve, lowering kit
 
 ## Mazda FD3S RX-7 RZ
 ![MAZDA FD3S RX-7 RZ](../images/cars/sbs2/sidebs2_fd3s.png)
@@ -101,7 +102,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
 ??? note "Notes"
     * Color: Competition Yellow Mica
     * Body kit based on Keisuke Takahashi's car from *Initial D*, specifically the First Stage model.
-    * Even in the Japanese version, the Efini logo is not used, with blank space where it should be. It likely may have the Efini logo in pre-release builds, before Mazda retired the Efini branding in 1997.
+    * Even in the Japanese version, [the Efini logo is not used, with blank space where it should be.](../images/cars/sbs2/sidebs2_fd3s_attract.png) It likely may have the Efini logo in pre-release builds, before Mazda retired the Efini branding in 1997 (the same year the game came out).
     * Dev-described tuning: ECU, intake manifolds, exhaust (megaphone type), lowering kit
 
 ## Mazda FC3S RX-7 ∞
@@ -117,7 +118,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
 ??? note "Notes"
     * Color: Crystal White
     * Savanna name not used in the English version, as the car was sold without that moniker outside of Japan. Even in the Japanese version, the Savanna name is also not used in the car selection screen, only in the car logo during attract mode.
-    * Dev-described tuning: ECU, intake manifolds, dual muffler, blow-off valve, lowering kit, clutch
+    * Dev-described tuning: ECU, intake manifolds, dual exhausts, blow-off valve, lowering kit, clutch
 
 ## Nissan BNR32 Skyline GT-R
 ![NISSAN BNR32 SKYLINE GT-R](../images/cars/sbs2/sidebs2_bnr32.png)
@@ -277,7 +278,7 @@ Some of these cars also have different rims to distinguish:
     <br>402PS/6500r.p.m.
     <br>48.0kg-m/4000r.p.m. 
 ??? note "Notes"
-    * Built equivalent to Prodrive World Rally Car spec
+    * Built equivalent to Prodrive World Rally Car spec car.
     * Despite being listed on the webpage, the Impreza does not actually appear as an opponent in the Special course.
 
 ###### Mitsubishi CN9A Lancer GSR Evolution IV
@@ -287,4 +288,4 @@ Some of these cars also have different rims to distinguish:
     <br>402PS/6500r.p.m.
     <br>48.0kg-m/4500r.p.m.
 ??? note "Notes"
-    * Built equivalent to Ralliart Group A8 WRC spec
+    * Built equivalent to Ralliart Group A8 WRC spec car.
