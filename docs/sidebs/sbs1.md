@@ -33,7 +33,7 @@ WIP
 
 # Cars
 
-See the [SBS1 Cars page.](../sidebs/sbs1.md)
+See the [SBS1 Cars page.](../sidebs/sbs1_car.md)
 
 # Tracks
 
