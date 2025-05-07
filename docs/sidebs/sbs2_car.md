@@ -74,8 +74,8 @@ Spec data in *italics* are what the in-game cars' true specifications [according
 * **Weight:** 1190 kg
 * **Engine:** SR20DET Twin Cam Turbo
     <br>1998cc
-    <br>205PS/6000r.p.m.+α
-    <br>28.0kg-m/4000r.p.m.+α
+    <br>205PS/6000r.p.m.+α *(263PS/7000r.p.m.)*
+    <br>28.0kg-m/4000r.p.m.+α *(28.0kg-m/6000r.p.m.)*
 * **Drivetrain:** FR
 * **Notes:**
   * Color: Impact Blue (not an Nissan factory color)
