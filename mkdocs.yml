@@ -50,7 +50,7 @@ nav:
   - Main Page: index.md
 
   - Side by Side:
-    - Index: sidebs/index.md
+    - SBS Series Index: sidebs/index.md
     - Side by Side: sidebs/sbs1.md
     - Side by Side 2 Evoluzione: sidebs/sbs2.md
     - Side by Side Special: sidebs/sbss.md
@@ -60,7 +60,7 @@ nav:
     - Tracks: sidebs/tracks.md
 
   - Battle Gear:
-    - Index: batlgear/index.md
+    - BG Series Index: batlgear/index.md
     - Battle Gear: batlgear/bg1.md
     - Battle Gear 2: batlgear/bg2.md
     - Battle Gear 2 PS2 Version: batlgear/bg2_ps2.md
@@ -76,14 +76,14 @@ nav:
     - BG3 and BG4T Tracks: batlgear/bg4_tracks.md
 
   - Related Games:
-    - Index: related/index.md
+    - Related Games Index: related/index.md
     - Dangerous Curves: related/dangcurv.md
     - Stunt Typhoon: related/styphoon.md
     - D1GP Arcade: related/d1gp.md
     - Top Speed (2009): related/topspeed.md
 
   - Other:
-    - Index: other/index.md
+    - Other Index: other/index.md
     - NESYS: other/nesys.md
     - Music: other/music.md
     - Taito v. Honda USA: other/honda.md
