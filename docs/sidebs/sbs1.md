@@ -33,11 +33,11 @@ WIP
 
 ## Cars
 
-See the [SBS1 Cars page.](../sidebs/sbs1_car.md)
+See the [SBS1 Cars page.](/sidebs/sbs1_car.md)
 
 ## Tracks
 
-See the [SBS Tracks page.](../sidebs/tracks.md)
+See the [SBS Tracks page.](/sidebs/tracks.md)
 
 !!! tip
     Hold View button after coining up to temporaily unlock the Special course.
