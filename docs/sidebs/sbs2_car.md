@@ -111,8 +111,8 @@ Spec data in *italics* are what the in-game cars' true specifications [according
   * Savanna name not used in the English version, as the car was sold without that moniker outside of Japan. Even in the Japanese version, the Savanna name is also not used in the car selection screen.
   * Dev-described tuning: ECU, intake manifolds, dual muffler, blow-off valve, lowering kit, clutch
 
-## Nissan R32 Skyline GT-R
-![NISSAN R32 SKYLINE GT-R](/images/cars/sbs2/sidebs2_bnr32.png)
+## Nissan BNR32 Skyline GT-R
+![NISSAN BNR32 SKYLINE GT-R](/images/cars/sbs2/sidebs2_bnr32.png)
 * **Dimension:** 4545mm×1755mm×1340mm
 * **Weight:** 1430 kg
 * **Engine:** RB26DETT DOHC Twin Turbo
