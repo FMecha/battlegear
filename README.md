@@ -8,7 +8,7 @@ In creating this website, I would give special thanks to the following who inspi
 - [pooka11509574](https://twitter.com/pooka11509574)
 - [derole, for the NESYS Revival Project](https://nrproject.derole.co.uk/)
 - [goilup](https://goilup.blogspot.com/2024/06/battle-gear-3-north-america.html), for dumping the US English version of *Battle Gear 3*.
-- [Anjasmara Putranto](https://www.youtube.com/@anjasmaraputranto7818), for footage of English version of the first *Battle Gear* prior to mokonaXVI's acquisition of *Battle Gear 1* board.
+- [Anjasmara Putranto](https://www.youtube.com/@anjasmaraputranto7818), for footage of English version of the first *Battle Gear* prior to mokonaXVI's acquisition of said game's board.
 - [A.S HORNET](https://www.youtube.com/@a.shornet0808), for footage of [*Battle Gear 2V*.](https://www.youtube.com/playlist?list=PLr6Fl5fIdj0mq1Y64bzBlO2x5Tg-zKsQj)
 - [Fatalita/Minardi_M765,](https://www.youtube.com/@Fatalita765Assoluto) for complete "side-by-side" (pun intended!) playthrough of [both versions of *Side by Side Special.*](https://www.youtube.com/playlist?list=PLVgzIufESq6S0ytaDzrzhwwrsxVGyWxVp)
 - [Agarin Pachi](https://www.youtube.com/@agarpac), an Indonesian vtuber who runs a Discord server with a channel for Indonesian arcade discussion.
