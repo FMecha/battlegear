@@ -1,3 +1,5 @@
+# Side by Side Series
+
 Pages relating to *Side by Side* titles, the first part in Taito's coin-op touge racing series. All arcade games in this series run on the [Taito JC System hardware.](https://www.system16.com/hardware.php?id=667)
 
 !!! note
