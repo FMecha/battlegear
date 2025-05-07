@@ -1,4 +1,4 @@
-![Side by Side 2 Evoluzione logo](/images/logos/sidebs2.gif)
+![Side by Side 2 Evoluzione logo](../images/logos/sidebs2.gif)
 
 *Nice to see ya again.*
 
@@ -6,7 +6,7 @@ The second game in the series, [releasing in May 1997 in Japan](https://archive.
 
 - [Official website (Wayback Machine)](https://web.archive.org/web/19971012061831/http://www.taito.co.jp/sbs2/index.html) (please note that car renders and specifications are missing from the archive)
 - [TCRF page](https://tcrf.net/Side_by_Side_2)
-- [Flyer](/images/etc/sbs2_flyer.jpg) (the one on TAFA is missing inside pages; this is taken from `battlegear.net`)
+- [Flyer](../images/etc/sbs2_flyer.jpg) (the one on TAFA is missing inside pages; this is taken from `battlegear.net`)
  
 !!! note 
     If you are emulating any Taito JC System game in MAME, you should be running version 0.266 with `-cheat` switch and overclock the `maincpu`, `sub`, and `dsp` CPUs to at least 200%. [Properly overclocked, it should run like this.](https://www.youtube.com/watch?v=BN6cwDzq0fg) Currently, Taito JC games suffer from a slowdown due to imperfect CPU emulation. [Starting from version 0.267,](https://github.com/mamedev/mame/commit/3d357c07c0ca824868bbe7586839c8caae236571#diff-2fc8ed920c6dc8de6019a9cde02d47e52e622912f49e6e03a5544471103b32d4) changes in Motorola 68000 FPU emulation has made the performance worse, even overclocked.<br>It is also recommended to set the master volume in Sound Test to maximum, as the default volume can be very quiet.
@@ -17,7 +17,7 @@ WIP
 
 Build Tag | Language/Region | Dump Status | Notes
 ------ | ------ | ------ | ------
-Unknown | Japanese, original | Undumped | Earlier builds are known to exist with swapped month labels for the Professional (July) and Ace Driver (October) courses, [as shown on the flyer,](/images/etc/sbs2_flyer.jpg) although they were either location testing or internal use builds. Although this mistake was fixed for all known arcade versions, it was never fixed in any version of *Side by Side Special.*
+Unknown | Japanese, original | Undumped | Earlier builds are known to exist with swapped month labels for the Professional (July) and Ace Driver (October) courses, [as shown on the flyer,](../images/etc/sbs2_flyer.jpg) although they were either location testing or internal use builds. Although this mistake was fixed for all known arcade versions, it was never fixed in any version of *Side by Side Special.*
 `SIDE BY SIDE2 VER 2.4 J 1997/ 5/26 3:06:37` | Japanese, original | In MAME (`sidebs2ja`) | Earliest known base Japanese version. This build has the month labels for the July and October tracks in the correct position. Added in MAME version 0.124u2.
 `SIDE BY SIDE2 VER 2.6 OK 1997/ 6/ 4 17:27:37` | English | In MAME (`sidebs2`) | International English version; `K` in region tag probably means South Korea ("Overseas + Korea"?) Honda cars are available, but trim badges were removed from them. A cabinet with this ROM has not been spotted in the wild, although PCBs do exist given how it is dumped and present in MAME (since version 0.175).
 `SIDE BY SIDE2 VER 2.6 A  1997/ 6/19 09:39:22` | English, US | In MAME (`sidebs2u`)  | US English version with [Honda cars disabled](/docs/other/honda.md) (an issue not mentioned in the flyer) and "Winners Don't Use Drugs"/"Recycle It, Don't Trash It" PSAs. It is unknown how many cabinets were actually distributed with this ROM as the game is not mentioned in the US list of the 2005 edition of *Domestic and Overseas Arcade Game List*, [but PCBs do exist.](https://www.youtube.com/watch?v=RVvNLj7oVek) Added in MAME version 0.81u4; despite the rarity, this version was the first one to be dumped and added to MAME.
