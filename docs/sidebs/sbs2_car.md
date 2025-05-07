@@ -169,7 +169,7 @@ The following are cars available in [*Side by Side 2 Evoluzione*.](../sidebs/sbs
   * Color: Pure White
   * The only playable station wagon car in the entire *Side by Side*/*Battle Gear* series, barring the Taito Van in *Side by Side Special*. While later *Battle Gear* games did feature later Subaru Legacy models, the sedan models are used instead.
  
-## Subaru GF8 Impreza Impreza WRX STi Station Wagon Version III (CPU Only)
+## Subaru GF8 Impreza WRX STi Station Wagon Version III (CPU Only)
 ![SUBARU GC8 IMPREZA WRX STi STATION WAGON VERSION III](/images/cars/sbs2/sidebs2_gf8_com.png)
 
 A car that only appears as an opponent in April and March tracks, and not selectable by the player. Note that the regularly playable, sedan version of Impreza does not appear as an opponent. Why is this car here in this state is unknown. It is defenitely *not simply* the Impreza texture applied to the Legacy wagon, as this car has different roof rails and spoiler modeling.
