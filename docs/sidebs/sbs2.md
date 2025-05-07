@@ -44,7 +44,7 @@ See the [SBS Tracks page.](/docs/sidebs/tracks.md)
 
 There are two English versions of the game, one with region `OK` (international) and the other with region `A` (US). The `OK` version has Honda cars enabled, but without SiR trim labels. The `A` version has them [disabled](/docs/other/honda.md), with the Legacy and Levin being selectable by default instead. Both versions also have the "Evoluzione" subtitle removed from the game's branding. Note that, in the `A` version where the Honda cars are disabled, the Civic and CR-X logos in the car selection screen is left unchanged.
 
-Otherwise, both are identical to the Japanese non-RR revision.
+Otherwise, both are identical to the Japanese non-RR revision. The RR revision does carry one thing from the US English non-RR revision, the different LAN test screen during POST/startup (on original Japanese and international English versions it goes AE86 Levin, AE86 Trueno, CR-X, Civic; in the US English and Japanese RR version, it goes R32 GT-R, FD RX-7, Impreza, and Lancer).
 
 It is unknown how many cabinets are out there with either ROM installed, other than from PCBs where the dumps originate.
 
