@@ -1,6 +1,6 @@
-# fmecha.github.io/battlegear
+# Side by Side and Battle Gear Archive
 
-*If you are seeing this notice on `fmecha.github.io/battlegear`, it means the website is currently available. Rest assured, the website is currently WIP.*
+*If you are seeing this notice on `fmecha.github.io/battlegear`, it means the website is currently unavailable. Rest assured, the website is currently WIP.*
 
 A website covering Taito's *Battle Gear* series (including *Side by Side*) of coin-op racing games.
 
