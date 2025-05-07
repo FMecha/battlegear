@@ -1,4 +1,4 @@
-*Side by Side Special* combines the roster of cars from both *Side by Side* arcade games for a total of 16 cars, plus three bonus Taito-branded cars that originated as non-playable cars in *Dangerous Curves* where they could appear randomly in traffic. These secret cars are something not to be fooled, as they have performance advantage compared to the main acrs.
+*Side by Side Special* combines the roster of cars from both *Side by Side* arcade games for a total of 16 cars, plus three bonus Taito-branded cars. These secret cars are something not to be fooled, as they have performance advantage compared to the main cars.
 
 # Toyota AE86 Levin GT
 ![TOYOTA AE86 LEVIN GT](/images/cars/sbss/sbss_ae86l.png)
@@ -245,9 +245,10 @@
   * Based on Toyota TownAce wagon (R20, 1991).
   * Uses wheels from the Legacy.
   * The term "1BOX" is the Japanese terminology for minivans/vans with "one box" configuration, hence the term.
+  * Originally an traffic car in *Dangerous Curves* that could appear randomly [under certain conditions.](https://www.youtube.com/watch?v=H7NMf0JF2ic) However, the van in that game has a different body shape.
   
 # Taito Truck
-![TAITO Truck](/images/cars/sbss/sbss_truck.png)
+![TAITO TRACK](/images/cars/sbss/sbss_truck.png)
 * **Dimension:** ????mm×????mm×????mm
 * **Weight:** ???? kg
 * **Engine:** Unknown
