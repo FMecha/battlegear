@@ -121,6 +121,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
 
 ## Nissan BNR32 Skyline GT-R
 ![NISSAN BNR32 SKYLINE GT-R](/images/cars/sbs2/sidebs2_bnr32.png)
+
 * **Dimension:** 4545mm×1755mm×1340mm
 * **Weight:** 1430 kg
 * **Engine:** RB26DETT DOHC Twin Turbo
@@ -136,6 +137,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
  
 ## Subaru GC8 Impreza WRX STi Version III
 ![SUBARU GC8 IMPREZA WRX STi VERSION III](/images/cars/sbs2/sidebs2_gc8.png)
+
 * **Dimension:** 4340mm×1690mm×1405mm
 * **Weight:** 1250 kg
 * **Engine:** EJ20 16 Valve DOHC Turbo
@@ -150,6 +152,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
 
 ## Mitsubishi CN9A Lancer GSR Evolution IV
 ![MITSUBISHI CN9A LANCER GSR EVOLUION IV](/images/cars/sbs2/sidebs2_cn9a.png)
+
 * **Dimension:** 4330mm×1690mm×1415mm
 * **Weight:** 1350 kg
 * **Engine:** 4G63 16 Valve DOHC Turbo
@@ -164,6 +167,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
 
 ## Toyota ST205 Celica GT-Four
 ![Toyota ST205 CELICA GT-FOUR](/images/cars/sbs2/sidebs2_st205.png)
+
 * **Dimension:** 4420mm×1750mm×1305mm
 * **Weight:** 1380 kg
 * **Engine:** 3S-GTE 16 Valve DOHC Turbo
@@ -179,6 +183,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
  
 ## Subaru BG5 Legacy Touring Wagon GT-B
 ![Subaru BG5 LEGACY TOURING WAGON GT-B](/images/cars/sbs2/sidebs2_bg5.png)
+
 * **Dimension:** 4680mm×1695mm×1490mm
 * **Weight:** 1460 kg
 * **Engine:** EJ20 16 Valve DOHC Turbo
@@ -214,6 +219,7 @@ Some of these cars also have different rims to distinguish:
 
 ##### Nissan R32 Skyline GT-R
 ![NISSAN BNR32 SKYLINE GT-R](/images/cars/sbs2/sidebs2_bnr32_com.png)
+
 * **Weight:** 1430 kg
 * **Engine:** RB26DETT DOHC Twin Turbo
     <br>2568cc
@@ -225,6 +231,7 @@ Some of these cars also have different rims to distinguish:
 ###### Mazda FD3S RX-7 RZ, FC3S RX-7 ∞
 ![MAZDA FD3S RX-7 RZ](/images/cars/sbs2/sidebs2_fd3s_com.png)
 ![MAZDA FC3S RX-7 ∞](/images/cars/sbs2/sidebs2_fc3s_com.png)
+
 * **Weight:** 1250 kg
 * **Engine:** 20B Rotary Engine
     <br>654×3cc
@@ -236,6 +243,7 @@ Some of these cars also have different rims to distinguish:
  
 ###### Nissan RPS13 180SX
 ![NISSAN RPS13 180SX](/images/cars/sbs2/sidebs2_rps13_com.png)
+
 * **Weight:** 1190 kg
 * **Engine:** RB26DETT DOHC Twin Turbo
     <br>2568cc
@@ -244,6 +252,7 @@ Some of these cars also have different rims to distinguish:
 
 ###### Honda EG-6 Civic SiR
 ![HONDA EG-6 CIVIC SiR](/images/cars/sbs2/sidebs2_eg6_com.png)
+
 * **Weight:** 900 kg
 * **Engine:** C30A V6 VTEC
     <br>2977cc
@@ -252,6 +261,7 @@ Some of these cars also have different rims to distinguish:
 
 ###### Toyota AE86 Trueno GTV, Toyota AE86 Levin GT Apex
 ![TOYOTA AE86 LEVIN GT APEX](/images/cars/sbs2/sidebs2_ae86l_com.png)
+
 * **Weight:** 800 kg
 * **Engine:** 2JZ-GTE Two-way Twin Turbo
    <br>2997cc
