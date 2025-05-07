@@ -30,6 +30,7 @@ Archives of international servers:
 - [mokonaXVI's website (Japanese)](https://mokonaxvi.sakura.ne.jp/) ([Type-Zero page](https://mokonaxvi.sakura.ne.jp/typezero/st.htm) / [*Battle Gear 3* page](https://mokonaxvi.sakura.ne.jp/xvi/bg3ac/index.htm))
 - [*Side by Side*/*Battle Gear* series on The Cutting Room Floor](https://tcrf.net/Category:Side_by_Side/Battle_Gear_series)
 - [Find a *Side by Side*/*Battle Gear* cabinet near you](https://zenius-i-vanisher.com/v5.2/arcades.php) (may not be always up-to-date or complete)
+- [A playlist of videos containing real hardware, English versions of *Battle Gear* games on YouTube](https://www.youtube.com/playlist?list=PLltO_kA9MwiEGGwsqOokEdJHAga7kJi2M)
 
 # Acknoweldgements and Credits
 In creating this website, I would give special thanks to the following who inspired me for this website:
