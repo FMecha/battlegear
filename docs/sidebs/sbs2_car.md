@@ -1,0 +1,177 @@
+The following are cars available in [*Side by Side 2 Evoluzione*.](../sidebs/sbs2.md) Twelve cars from Japan's major automakers are featured; note that the [Honda cars are disabled in the US (region `A`) version of the game.](../other/honda.md)
+
+[Video of the game's attract mode showing car specifications](https://www.youtube.com/watch?v=mmlStC_LSV4)
+
+# Toyota AE86 Levin GT Apex
+![TOYOTA AE86 LEVIN GT APEX](/images/cars/sbs2/sidebs2_ae86l.png)
+* **Dimension:** 4180mm×1625mm×1335mm
+* **Weight:** 925 kg
+* **Engine:** 4A-GEU DOHC 4 Valve
+    <br>1587cc
+    <br>130PS/6600r.p.m.+α
+    <br>15.2kg-m/5200r.p.m.+α
+* **Drivetrain:** FR
+* *Highlight the Trueno and shift up/down to select this car.* (Except in the `A` version where it replaces the CR-X)
+* **Notes:**
+  * Color: High-Flash Two-Tone
+  * Unlike in *Battle Gear* games, the Levin in this game is the 2-door/coupe model.
+  * Trim changed to "GT" in *Side by Side Special* (although the "Apex" decal is still impliable in the textures), and in Type-Zero era *Battle Gear*, the Levin and Trueno swapped trim levels (GT Apex/GTV).
+
+# Toyota AE86 Trueno GTV
+![TOYOTA AE86 TRUENO GTV](/images/cars/sbs2/sidebs2_ae86t.png)
+* **Dimension:** 4205mm×1625mm×1335mm
+* **Weight:** 940 kg
+* **Engine:** 4A-GEU DOHC 4 Valve
+    <br>1587cc
+    <br>130PS/6600r.p.m.+α
+    <br>15.2kg-m/5200r.p.m.+α
+* **Drivetrain:** FR
+* **Notes:**
+  * Color: High-Tech Two-Tone
+  * Equipped with RS Watanabe 8-Spoke wheels.
+  * Basically unchanged from the version it has in the first *Side by Side.*
+ 
+# Honda EF-8 CR-X SiR
+![HONDA EF-8 CR-X SiR](/images/cars/sbs2/sidebs2_ef8.png)
+* **Dimension:** 3800mm×1675mm×1270mm
+* **Weight:** 970 kg
+* **Engine:** B16A DOHC VTEC
+    <br>1595cc
+    <br>160PS/7600r.p.m.+α
+    <br>15.5kg-m/7300r.p.m.+α
+* **Drivetrain:** FF
+* **Notes:**
+  * Color: Torino Red Pearl
+  * Equipped with full body color body kit.
+  * Only appearance for the CR-X in the *Side by Side*/*Battle Gear* series (barring *Side by Side Special*).
+  * Disabled in the US (`A`) version due to the Honda USA licensing issue, and has the SiR badging absent in the international English (`OK`) version.
+
+# Honda EG-6 Civic SiR
+![HONDA EG-6 CIVIC SiR](/images/cars/sbs2/sidebs2_eg6.png)
+* **Dimension:** 4070mm×1695mm×1350mm
+* **Weight:** 1040 kg
+* **Engine:** B16A DOHC VTEC
+    <br>1595cc
+    <br>170PS/7800r.p.m.+α
+    <br>16.0kg-m/7300r.p.m.+α
+* **Drivetrain:** FF
+* **Notes:**
+  * Color: Granada Black Pearl
+     * Color changed to to maroon loosely based on Milano Red in *Side by Side Special*.
+  * Disabled in the US (`A`) version due to the Honda USA licensing issue, and has the SiR badging absent in the international English (`OK`) version.
+ 
+# Nissan RPS13 180SX
+![NISSAN RPS13 180SX](/images/cars/sbs2/sidebs2_rps13.png)
+* **Dimension:** 4470mm×1690mm×1290mm
+* **Weight:** 1190 kg
+* **Engine:** SR20DET Twin Cam Turbo
+    <br>1998cc
+    <br>205PS/6000r.p.m.+α
+    <br>28.0kg-m/4000r.p.m.+α
+* **Drivetrain:** FR
+* **Notes:**
+  * Color: Impact Blue (not an Nissan factory color)
+  * Given the color and bodykit, it is a reference to Mako and Sayuki's Sileighty in *Initial D*, minus the S13 front-end.
+
+# Mazda FD3S RX-7 RZ
+![MAZDA FD3S RX-7 RZ](/images/cars/sbs2/sidebs2_fd3s.png)
+* **Dimension:** 4280mm×1786mm×1230mm
+* **Weight:** 1250 kg
+* **Engine:** 13B-REW Sequential Twin Turbo
+    <br>654×2cc
+    <br>265PS/6500r.p.m.
+    <br>28.0kg-m/4000r.p.m.
+* **Drivetrain:** FR
+* **Notes:**
+  * Color: Competition Yellow Mica
+  * Body kit based on Keisuke Takahashi's car from *Initial D*, specifically the First Stage model.
+  * Even in the Japanese version, the Efini logo is not used, with blank space where it should be. It likely may have the Efini logo in pre-release builds, before Mazda retired the Efini branding in 1997.
+
+# Mazda FC3S Savanna RX-7 ∞
+![MAZDA FC3S SAVANNA RX-7 ∞](/images/cars/sbs2/sidebs2_fc3s.png)
+* **Dimension:** 4335mm×1690mm×1270mm
+* **Weight:** 1250 kg
+* **Engine:** 13BT RE Twin Turbo
+    <br>654×2cc
+    <br>215PS/6500r.p.m.+α
+    <br>27.5kg-m/3500r.p.m.+α
+* **Drivetrain:** FR
+* **Notes:**
+  * Color: Crystal White
+  * Savanna name not used in the English version, as the car was sold without that moniker outside of Japan. Even in the Japanese version, the Savanna name is also not used in the car selection screen.
+
+## Nissan R32 Skyline GT-R
+![NISSAN R32 SKYLINE GT-R](/images/cars/sbs2/sidebs2_bnr32.png)
+* **Dimension:** 4545mm×1755mm×1340mm
+* **Weight:** 1430 kg
+* **Engine:** RB26DETT DOHC Twin Turbo
+    <br>2568cc
+    <br>280PS/6800r.p.m.
+    <br>36.0kg-m/4400r.p.m.
+* **Drivetrain:** 4WD
+* **Notes:**
+  * Color: Black Pearl Metallic
+    * The version in *Side by Side Special*, for some reason, has a bluish shade.
+  * Full form of chassis code (BNR32) is used in car selection screen, but the car specfications screen in attract mode uses shortened form (R32).
+ 
+## Subaru GC8 Impreza WRX STi Version III
+![SUBARU GC8 IMPREZA WRX STi VERSION III](/images/cars/sbs2/sidebs2_gc8.png)
+* **Dimension:** 4340mm×1690mm×1405mm
+* **Weight:** 1250 kg
+* **Engine:** EJ20 16 Valve DOHC Turbo
+    <br>1994cc
+    <br>280PS/6500r.p.m.
+    <br>33.5kg-m/4000r.p.m.
+* **Drivetrain:** 4WD
+* **Notes:**
+  * Color: Sports Blue (V-Limited)
+  * Equipped with Group A-style wheels. On the wheel/tire textures, "PIRELLI" is also somewhat legible, indicating it's taken from the rally car.
+
+## Mitsubishi CN9A Lancer GSR Evolution IV
+![MITSUBISHI CN9A LANCER GSR EVOLUION IV](/images/cars/sbs2/sidebs2_cn9a.png)
+* **Dimension:** 4330mm×1690mm×1415mm
+* **Weight:** 1350 kg
+* **Engine:** 4G63 16 Valve DOHC Turbo
+    <br>1994cc
+    <br>280PS/6500r.p.m.
+    <br>36.0kg-m/4000r.p.m.
+* **Drivetrain:** 4WD
+* **Notes:**
+  * Color: Steel Silver Metallic
+    * Color changed to to Scotia White in *Side by Side Special*.
+  * Equipped with Group A-style wheels, evident by the Enkei logos and it having four bolt nuts.
+
+## Toyota ST205 Celica GT-Four
+![Toyota ST205 CELICA GT-FOUR](/images/cars/sbs2/sidebs2_st205.png)
+* **Dimension:** 4420mm×1750mm×1305mm
+* **Weight:** 1380 kg
+* **Engine:** 3S-GTE 16 Valve DOHC Turbo
+    <br>1998cc
+    <br>225PS/6500r.p.m.
+    <br>31.0kg-m/4000r.p.m.
+* **Drivetrain:** 4WD
+* **Notes:**
+  * Color: Super White II
+  * Equipped with OZ 5-spoke wheel (WRC style?)
+  * Although not indicated anywhere in the game, the car in the game is actually the WRC edition model. This was made clear in *Side by Side Special* by adding "WRC" to car's name.
+ 
+## Subaru BG5 Legacy Touring Wagon GT-B
+![Subaru BG5 LEGACY TOURING WAGON GT-B](/images/cars/sbs2/sidebs2_bg5.png)
+* **Dimension:** 4680mm×1695mm×1490mm
+* **Weight:** 1460 kg
+* **Engine:** EJ20 16 Valve DOHC Turbo
+    <br>1994cc
+    <br>280PS/6500r.p.m.
+    <br>34.5kg-m/5000r.p.m.
+* **Drivetrain:** 4WD
+* *Highlight the Impreza and shift up/down to select this car.* (Except in the `A` version where it replaces the Civic)
+* **Notes:**
+  * Color: Pure White
+  * The only playable station wagon car in the entire *Side by Side*/*Battle Gear* series, barring the Taito Van in *Side by Side Special*. While later *Battle Gear* games did feature later Subaru Legacy models, the sedan models are used instead.
+ 
+## Subaru GF8 Impreza Impreza WRX STi Station Wagon Version III (CPU Only)
+![SUBARU GC8 IMPREZA WRX STi STATION WAGON VERSION III](/images/cars/sbs2/sidebs2_gf8_com.png)
+
+A car that only appears as an opponent in April and March tracks, and not selectable by the player. Note that the regularly playable, sedan version of Impreza does not appear as an opponent. Why is this car here in this state is unknown. It is defenitely *not simply* the Impreza texture applied to the Legacy wagon, as this car has different roof rails and spoiler modeling.
+
+In *Side by Side Special*, the opponent in the aforementioned tracks are replaced with the playable sedan model.
