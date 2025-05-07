@@ -27,7 +27,7 @@ Archives of international servers:
 - [South Korea: battlegear3.net](https://web.archive.org/web/20040117125429/http://getbeat.com/bg3/bg3.htm) (Korean)
 
 ## Other links
-- [mokonaXVI's website (Japanese)](https://mokonaxvi.sakura.ne.jp/) ([Type-Zero page](https://mokonaxvi.sakura.ne.jp/typezero/st.htm) / [*Battle Gear 3* page](https://mokonaxvi.sakura.ne.jp/xvi/bg3ac/index.htm))
+- [mokonaXVI's website (Japanese)](https://mokonaxvi.sakura.ne.jp/) ([Type-Zero page](https://mokonaxvi.sakura.ne.jp/typezero/index.htm) / [*Battle Gear 3* page](https://mokonaxvi.sakura.ne.jp/xvi/bg3ac/index.htm))
 - [*Side by Side*/*Battle Gear* series on The Cutting Room Floor](https://tcrf.net/Category:Side_by_Side/Battle_Gear_series)
 - [Find a *Side by Side*/*Battle Gear* cabinet near you](https://zenius-i-vanisher.com/v5.2/arcades.php) (may not be always up-to-date or complete)
 - [A playlist of videos containing real hardware, English versions of *Battle Gear* games on YouTube](https://www.youtube.com/playlist?list=PLltO_kA9MwiEGGwsqOokEdJHAga7kJi2M)
