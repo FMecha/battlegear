@@ -226,7 +226,7 @@
 * **Drivetrain:** FR
 ??? note "Notes"
       * Color: Crystal White
-      * Offset front license plate added.
+      * Offset front license plate added (originally present in SBS1 version of the car)
 
 ## Mitsubishi
 
