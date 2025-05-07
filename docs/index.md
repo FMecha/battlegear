@@ -1,5 +1,5 @@
-![Side by Side logo](../images/logos/sidebs.gif)
-![Battle Gear logo](../images/logos/batlgear.gif)
+![Side by Side logo](./images/logos/sidebs.gif)
+![Battle Gear logo](./images/logos/batlgear.gif)
 
 **Welcome to the Side by Side and Battle Gear Archive website!** This website aims as a documentation of everything relating to Taito's coin-op touge racing series in English.
 
