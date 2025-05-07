@@ -18,7 +18,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
   * Color: High-Flash Two-Tone
   * Unlike in *Battle Gear* games, the Levin in this game is the 2-door/coupe model.
   * Trim changed to "GT" in *Side by Side Special* (although the "Apex" decal is still impliable in the textures), and in Type-Zero era *Battle Gear*, the Levin and Trueno swapped trim levels (GT Apex/GTV).
-  * According to the developers, the AE86s have a "full-tune 7A-GEU replacement". Toyota never made an engine designated like this, so it would have been custom build consisting of 7A-FE block and crank mixed with 4A-GE heads and pistons mated with custom connecting rods.
+  * Dev-described tuning: "fully tuned 7A-GEU swap". (Toyota never made an engine designated like this, so it would have been custom build consisting of 7A-FE block and crank mixed with 4A-GE heads and pistons mated with custom connecting rods.)
   * In *Evoluzione RR* update, the AE86s now has a six-speed transmission.
     
 # Toyota AE86 Trueno GTV
@@ -34,7 +34,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
   * Color: High-Tech Two-Tone
   * Equipped with RS Watanabe 8-Spoke wheels.
   * Basically unchanged from the version it has in the first *Side by Side.*
-  * According to the developers, the AE86s have a "full-tune 7A-GEU replacement". Toyota never made an engine designated like this, so it would have been custom build consisting of 7A-FE block and crank mixed with 4A-GE heads and pistons mated with custom connecting rods.
+  * Dev-described tuning: "fully tuned 7A-GEU swap". (Toyota never made an engine designated like this, so it would have been custom build consisting of 7A-FE block and crank mixed with 4A-GE heads and pistons mated with custom connecting rods.)
   * In *Evoluzione RR* update, the AE86s now has a six-speed transmission.
  
 # Honda EF-8 CR-X SiR
@@ -51,7 +51,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
   * Equipped with full body color body kit.
   * Only appearance for the CR-X in the *Side by Side*/*Battle Gear* series (barring *Side by Side Special*).
   * Disabled in the US (`A`) version due to the Honda USA licensing issue, and has the SiR badging absent in the international English (`OK`) version.
-  * According to the developers, both the CR-X's and the Civic's tuning menu includes an engine swap, using the B18C from the Integra.
+  * Dev-described tuning: B18C DOHC VTEC swap, ECU, Super Induction Box air cleaner, muffler, lowering kit
 
 # Honda EG-6 Civic SiR
 ![HONDA EG-6 CIVIC SiR](/images/cars/sbs2/sidebs2_eg6.png)
@@ -66,7 +66,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
   * Color: Granada Black Pearl
      * Color changed to to maroon loosely based on Milano Red in *Side by Side Special*.
   * Disabled in the US (`A`) version due to the Honda USA licensing issue, and has the SiR badging absent in the international English (`OK`) version.
-  * According to the developers, both the CR-X's and the Civic's tuning menu includes an engine swap, using the B18C from the Integra.
+  * Dev-described tuning: B18C DOHC VTEC swap, ECU, Super Induction Box air cleaner, muffler, lowering kit
  
 # Nissan RPS13 180SX
 ![NISSAN RPS13 180SX](/images/cars/sbs2/sidebs2_rps13.png)
@@ -80,6 +80,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
 * **Notes:**
   * Color: Impact Blue (not an Nissan factory color)
   * Given the color and bodykit, it is a reference to Mako and Sayuki's Sileighty in *Initial D*, minus the S13 front-end.
+  * Dev-described tuning: ECU, electronic valve controller, air filter, muffler, blow-off valve, lowering kit
 
 # Mazda FD3S RX-7 RZ
 ![MAZDA FD3S RX-7 RZ](/images/cars/sbs2/sidebs2_fd3s.png)
@@ -94,6 +95,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
   * Color: Competition Yellow Mica
   * Body kit based on Keisuke Takahashi's car from *Initial D*, specifically the First Stage model.
   * Even in the Japanese version, the Efini logo is not used, with blank space where it should be. It likely may have the Efini logo in pre-release builds, before Mazda retired the Efini branding in 1997.
+  * Dev-described tuning: ECU, intake manifolds, exhaust (megaphone type), lowering kit
 
 # Mazda FC3S Savanna RX-7 ∞
 ![MAZDA FC3S SAVANNA RX-7 ∞](/images/cars/sbs2/sidebs2_fc3s.png)
@@ -107,6 +109,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
 * **Notes:**
   * Color: Crystal White
   * Savanna name not used in the English version, as the car was sold without that moniker outside of Japan. Even in the Japanese version, the Savanna name is also not used in the car selection screen.
+  * Dev-described tuning: ECU, intake manifolds, dual muffler, blow-off valve, lowering kit, clutch
 
 ## Nissan R32 Skyline GT-R
 ![NISSAN R32 SKYLINE GT-R](/images/cars/sbs2/sidebs2_bnr32.png)
@@ -121,6 +124,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
   * Color: Black Pearl Metallic
     * The version in *Side by Side Special*, for some reason, has a bluish shade.
   * Full form of chassis code (BNR32) is used in car selection screen, but the car specfications screen in attract mode uses shortened form (R32).
+  * Dev-described tuning: ECU, air cleaner, exhaust, electronic valve controller, tuned shocks
  
 ## Subaru GC8 Impreza WRX STi Version III
 ![SUBARU GC8 IMPREZA WRX STi VERSION III](/images/cars/sbs2/sidebs2_gc8.png)
@@ -134,6 +138,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
 * **Notes:**
   * Color: Sports Blue (V-Limited)
   * Equipped with Group A-style wheels. On the wheel/tire textures, "PIRELLI" is also somewhat legible, indicating it's taken from the rally car.
+  * Dev-described tuning: Misfiring system/anti-lag
 
 ## Mitsubishi CN9A Lancer GSR Evolution IV
 ![MITSUBISHI CN9A LANCER GSR EVOLUION IV](/images/cars/sbs2/sidebs2_cn9a.png)
@@ -148,6 +153,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
   * Color: Steel Silver Metallic
     * Color changed to to Scotia White in *Side by Side Special*.
   * Equipped with Group A-style wheels, evident by the Enkei logos and it having four bolt nuts.
+  * Dev-described tuning: Misfiring system/anti-lag
 
 ## Toyota ST205 Celica GT-Four
 ![Toyota ST205 CELICA GT-FOUR](/images/cars/sbs2/sidebs2_st205.png)
@@ -162,6 +168,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
   * Color: Super White II
   * Equipped with OZ 5-spoke wheel (WRC style?)
   * Although not indicated anywhere in the game, the car in the game is actually the WRC edition model. This was made clear in *Side by Side Special* by adding "WRC" to car's name.
+  * Dev-described tuning: ECU, misfiring system/anti-lag, "floating" air restrictor mount (probably the same type that got Toyota Team Europe in trouble with the FIA?)
  
 ## Subaru BG5 Legacy Touring Wagon GT-B
 ![Subaru BG5 LEGACY TOURING WAGON GT-B](/images/cars/sbs2/sidebs2_bg5.png)
@@ -176,10 +183,82 @@ Spec data in *italics* are what the in-game cars' true specifications [according
 * **Notes:**
   * Color: Pure White
   * The only playable station wagon car in the entire *Side by Side*/*Battle Gear* series, barring the Taito Van in *Side by Side Special*. While later *Battle Gear* games did feature later Subaru Legacy models, the sedan models are used instead.
- 
-## Subaru GF8 Impreza WRX STi Station Wagon Version III (CPU Only)
+
+## CPU-Only Cars 
+
+### Subaru GF8 Impreza WRX STi Station Wagon Version III
 ![SUBARU GC8 IMPREZA WRX STi STATION WAGON VERSION III](/images/cars/sbs2/sidebs2_gf8_com.png)
 
 A car that only appears as an opponent in April and March tracks, and not selectable by the player. Note that the regularly playable, sedan version of Impreza does not appear as an opponent. Why is this car here in this state is unknown. It is defenitely *not simply* the Impreza texture applied to the Legacy wagon, as this car has different roof rails and spoiler modeling.
 
 In *Side by Side Special*, the opponent in the aforementioned tracks are replaced with the playable sedan model.
+
+### Special/22:00 Course Tuned Cars
+For the 22:00 (Special) course, the opponent cars have further tuning to emphasize the increased difficulty, [according to the developers.](https://web.archive.org/web/19971012101858/http://www.taito.co.jp/sbs2/com_spec.htm) (Due to missing logo images, the order goes BNR32, FD3S, FC3S, RPS13, EG6, AE86s, GC8, and CN9A.) These cars also have close-ratio six-speed transmission except for the Civic, which keeps a five-speed (but also close-ratio) gearbox; the playable AE86s would later be converted to six-speed in *Evoluzione RR* update.
+
+Some of these cars also have different rims to distinguish:
+
+* The FC RX-7 gains the 8-spoke RS Watanabe wheel as used in the Trueno.
+* The FD RX-7 gains the mesh wheel as used in the FC RX-7.
+* The EG Civic gains a white 5-spoke wheel as used in the previous *Side by Side* game.
+* The R32 GT-R gains a black 5-spoke wheel as used in the FD RX-7 in the first *Side by Side*.
+* The AE86 Levin gains a unique steel wheel not used in any other car in either games.
+
+#### Nissan R32 Skyline GT-R
+* **Weight:** 1430 kg
+* **Engine:** RB26DETT DOHC Twin Turbo
+    <br>2568cc
+    <br>450PS/6800r.p.m.
+    <br>45.0kg-m/7000r.p.m.
+* **Notes:**
+  * Dev-described tuning: High compression camshaft, upgraded turbos, etc.
+
+#### Mazda FD3S RX-7 RZ, FC3S Savanna RX-7 ∞
+* **Weight:** 1250 kg
+* **Engine:** 20B Rotary Engine
+    <br>654×3cc
+    <br>424PS/8000r.p.m.
+    <br>42.0kg-m/4200r.p.m.
+* **Notes:**
+  * Both the FD and FC are listed with the same engine tuning, so they are here together.
+  * It is not clear if the NA 20B used is a detuned Mazda 787 Group C engine, or Eunos Cosmo's engine with turbo removed (as the 20B-REW on the Eunos Cosmo was turbo only).
+ 
+#### Nissan RPS13 180SX
+* **Weight:** 1190 kg
+* **Engine:** RB26DETT DOHC Twin Turbo
+    <br>2568cc
+    <br>356S/7500r.p.m.
+    <br>37.5kg-m/5000r.p.m. 
+
+#### Honda EG-6 Civic SiR
+* **Weight:** 900 kg
+* **Engine:** C30A V6 VTEC
+    <br>2977cc
+    <br>339PS/9000r.p.m.
+    <br>30.0kg-m/7500r.p.m.
+
+#### Toyota AE86 Trueno GTV, Toyota AE86 Levin GT Apex
+* **Weight:** 800 kg
+* **Engine:** 2JZ-GTE Two-way Twin Turbo
+   <br>2997cc
+   <br>332PS/7000r.p.m.
+   <br>44.0kg.m/4000r.p.m.
+
+#### Subaru GC8 Impreza WRX STi Version III
+* **Weight:** 1200 kg
+* **Engine:** EJ20 16 Valve DOHC Turbo
+    <br>1994cc
+    <br>4020PS/6500r.p.m.
+    <br>48.0kg-m/4000r.p.m. 
+* **Notes:**
+  * Built equivalent to Prodrive World Rally Car spec
+  * Despite being listed on the webpage, the Impreza does not actually appear as an opponent in the Special course.
+
+#### Mitsubishi CN9A Lancer GSR Evolution IV
+* **Weight:** 1200 kg
+* **Engine:** 4G63 16 Valve DOHC Turbo
+    <br>1994cc
+    <br>402PS/6500r.p.m.
+    <br>48.0kg-m/4500r.p.m.
+* **Notes:**
+  * Built equivalent to Ralliart Group A8 WRC spec
