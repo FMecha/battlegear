@@ -77,5 +77,5 @@ D|8|5|3
 E|10|5|3
 F|10|10|10
 
-!!! note
-    All machines must have the same amount of laps set if they are linked, or the game's multiplayer will break where players with less laps set will always win the race.
+!!! warning
+    All cabinets must have the same amount of laps set if they are linked, or the game's multiplayer will break where the player(s) playing on the cabinet with less laps set will always win the race.
