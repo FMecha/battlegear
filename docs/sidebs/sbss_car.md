@@ -18,6 +18,7 @@
       * Color: High-Flash Two-Tone
       * Unlike in *Battle Gear* games, the Levin in this game is the 2-door/coupe model.
       * Trim changed to "GT" from "GT-Apex" that it originally had in *Side by Side 2* (although the "Apex" decal is still impliable in the textures). Additionally, in the demo disc build, the game still explicitly refers it as an GT-Apex trim.
+      * Wheel changed from a gold mesh wheel to RS Watanabe 8-Spoke wheel as used in the Trueno.
     
 ### Toyota AE86 Trueno GTV
 ![TOYOTA AE86 TRUENO GTV](../images/cars/sbss/sbss_ae86t.png)
