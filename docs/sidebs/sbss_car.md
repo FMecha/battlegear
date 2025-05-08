@@ -40,7 +40,7 @@
 * **Weight:** 1380 kg
 * **Engine:** 3S-GTE 16 Valve DOHC Turbo
     <br>1998cc
-    <br>225PS/6500r.p.m.
+    <br>255PS/6500r.p.m.
     <br>31.0kg-m/4000r.p.m.
 * **Drivetrain:** 4WD
 ??? note "Notes"
