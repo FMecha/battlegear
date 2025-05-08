@@ -36,7 +36,7 @@ See the [SBS2 Cars page.](/docs/sidebs/sbs2_car.md)
 See the [SBS Tracks page.](/docs/sidebs/tracks.md)
 
 !!! tip
-    For non-RR versions only, hold View button after coining up to temporaily unlock the Special course, if the track has not yet been permanently unlocked. (Getting a high score will unlock the track permanently; the track is also unlocked by default in the RR revision.)
+    For non-RR versions only, hold View button after coining up to temporaily unlock the Special (22:00) course, if the track has not yet been permanently unlocked. (Getting a high score will unlock the track permanently; the track is also unlocked by default in the RR revision.)<br>If the track is already unlocked (including if playing on RR revision), the course will be chosen automatically instead of the April course.
 
 ## Version Differences
 
@@ -44,7 +44,7 @@ See the [SBS Tracks page.](/docs/sidebs/tracks.md)
 
 There are two English versions of the game, one with region `OK` (international) and the other with region `A` (US). The `OK` version has Honda cars enabled, but without SiR trim labels. The `A` version has them [disabled](/docs/other/honda.md), with the Legacy and Levin being selectable by default instead. Both versions also have the "Evoluzione" subtitle removed from the game's branding. Note that, in the `A` version where the Honda cars are disabled, the Civic and CR-X logos in the car selection screen is left unchanged.
 
-Otherwise, both are identical to the Japanese non-RR revision. The RR revision does carry one thing from the US English non-RR revision, the different LAN test screen during POST/startup (on original Japanese and international English versions it goes AE86 Levin, AE86 Trueno, CR-X, Civic; in the US English and Japanese RR version, it goes R32 GT-R, FD RX-7, Impreza, and Lancer).
+Otherwise, both are identical to the Japanese non-RR revision. The RR revision does carry one thing from the US English non-RR revision, the different LAN test screen during POST/startup (on original Japanese and international English versions it goes AE86 Levin, AE86 Trueno, CR-X, and Civic; in the US English and Japanese RR version, it goes R32 GT-R, FD RX-7, Impreza, and Lancer).
 
 It is unknown how many cabinets are out there with either ROM installed, other than from PCBs where the dumps originate.
 
@@ -62,5 +62,20 @@ This update adds the following features:
 
 ## Others
 
+- *Side by Side 2* (and *Side by Side Special*) are the only games in the series without an interior view (although the first *Side by Side*'s "interior" view is just a hood overlaid on a higher bumper camera). Instead, a higher chase camera is present.
 - When in attract demo, pressing the View Change button will change the currently focused car.
 - When selecting a track, holding the View Change button will race with only player car(s) on the grid (called "Deathmatch" in the English versions).
+- When selecting a car, pressing the View Change button will change the music.
+- Available lap configurations in test mode (Configuration ➡️ Lap): (All races on SBS2 tracks in *Side by Side Special* follow "B" configuration, the default setting, as that game lacks the option to set how long races can be.)
+  
+Lap|April|March/July|October
+------ | ------ | ------ | ------
+A|3|2|1
+B|5|3|2
+C|6|4|2
+D|8|5|3
+E|10|5|3
+F|10|10|10
+
+!!! note
+    All machines must have the same amount of laps set if they are linked, or the game's multiplayer will break where players with less laps set will always win the race.
