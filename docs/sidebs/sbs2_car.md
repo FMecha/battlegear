@@ -178,7 +178,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
 ??? note "Notes"
     * Color: Super White II
     * Equipped with OZ 5-spoke wheel (WRC style?)
-    * The in-game specifications has a typo where the listed horsepower was only 225PS. This was fixed in *Battle Gear*; for purposes of this list, the corrected power is included.
+    * The in-game specifications has a typo where the listed horsepower was only 225PS. This was fixed in the manual for *Side by Side Special*, as well in the *Battle Gear* games; for purposes of this list, the corrected power is included.
     * Although not indicated anywhere in the game, the car in the game is actually the WRC edition model. This was made clear in *Side by Side Special* by adding "WRC" to car's name.
     * Dev-described tuning: ECU, misfiring system/anti-lag, "floating" air restrictor mount (probably the same type that got Toyota Team Europe in trouble with the FIA?)
  
