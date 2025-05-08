@@ -229,7 +229,7 @@ Some of these cars also have different rims to distinguish:
 ??? note "Notes"
     * Dev-described tuning: High compression camshaft, upgraded turbos, etc.
 
-###### Mazda FD3S RX-7 RZ, FC3S RX-7 ∞
+##### Mazda FD3S RX-7 RZ, FC3S RX-7 ∞
 ![MAZDA FD3S RX-7 RZ](../images/cars/sbs2/sidebs2_fd3s_com.png)
 ![MAZDA FC3S RX-7 ∞](../images/cars/sbs2/sidebs2_fc3s_com.png)
 
@@ -242,7 +242,7 @@ Some of these cars also have different rims to distinguish:
     * Both the FD and FC are listed with the same engine tuning, so they are here together.
     * It is not clear if the NA 20B used is a detuned Mazda 787 Group C engine, or Eunos Cosmo's engine with turbo removed (as the 20B-REW on the Eunos Cosmo was turbo only).
  
-###### Nissan RPS13 180SX
+##### Nissan RPS13 180SX
 ![NISSAN RPS13 180SX](../images/cars/sbs2/sidebs2_rps13_com.png)
 
 * **Weight:** 1190 kg
@@ -251,7 +251,7 @@ Some of these cars also have different rims to distinguish:
     <br>356PS/7500r.p.m.
     <br>37.5kg-m/5000r.p.m. 
 
-###### Honda EG-6 Civic SiR
+##### Honda EG-6 Civic SiR
 ![HONDA EG-6 CIVIC SiR](../images/cars/sbs2/sidebs2_eg6_com.png)
 
 * **Weight:** 900 kg
@@ -260,7 +260,7 @@ Some of these cars also have different rims to distinguish:
     <br>339PS/9000r.p.m.
     <br>30.0kg-m/7500r.p.m.
 
-###### Toyota AE86 Trueno GTV, Toyota AE86 Levin GT-Apex
+##### Toyota AE86 Trueno GTV, Toyota AE86 Levin GT-Apex
 ![TOYOTA AE86 LEVIN GT APEX](../images/cars/sbs2/sidebs2_ae86l_com.png)
 
 * **Weight:** 800 kg
@@ -271,7 +271,7 @@ Some of these cars also have different rims to distinguish:
 ??? note "Notes"
     * It is not clear if this tuning also applies to the Levin. However, as the Levin does have changed wheels (the Trueno does not have its wheels changed), only the Levin is pictured here.
 
-###### Subaru GC8 Impreza WRX STi Version III
+##### Subaru GC8 Impreza WRX STi Version III
 * **Weight:** 1200 kg
 * **Engine:** EJ20 16 Valve DOHC Turbo
     <br>1994cc
@@ -281,7 +281,7 @@ Some of these cars also have different rims to distinguish:
     * Built equivalent to Prodrive World Rally Car spec car.
     * Despite being listed on the webpage, the Impreza does not actually appear as an opponent in the Special course.
 
-###### Mitsubishi CN9A Lancer GSR Evolution IV
+##### Mitsubishi CN9A Lancer GSR Evolution IV
 * **Weight:** 1200 kg
 * **Engine:** 4G63 16 Valve DOHC Turbo
     <br>1994cc
