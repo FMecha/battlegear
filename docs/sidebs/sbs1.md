@@ -46,5 +46,5 @@ See the [SBS Tracks page.](/sidebs/tracks.md)
 
 - Unlike in later games, the in-race music cannot be changed. Races on Spring, Summer, and Special courses have "Blue Wind" as soundtrack and on Autumn and Winter tracks have "Red Road" play. (Neither of these songs appeared in *Side by Side Special* or in the *Battle Gear* games.)
 - By default, races run for three laps. The operator can set this (in Configuration ➡️ Lap) to be between two to five laps. (All races on SBS1 tracks in *Side by Side Special* are three laps long as that game lacks the option to set how long races can be.)
-!!! note
-    All machines must have the same amount of laps set if they are linked, or the game's multiplayer will break where players with less laps set will always win the race.
+!!! important
+    All cabinets must have the same amount of laps set if they are linked, or the game's multiplayer will break where players with less laps set will always win the race.
