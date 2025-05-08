@@ -56,7 +56,6 @@ Spec data in *italics* are what the in-game cars' true specifications [according
       * Color: Torino Red Pearl
       * Equipped with full body color body kit.
       * Only appearance for the CR-X in the *Side by Side*/*Battle Gear* series (barring *Side by Side Special*).
-      * Disabled in the US (`A`) version due to the Honda USA licensing issue, and has the SiR badging absent in the international English (`OK`) version.
       * Dev-described tuning: B18C DOHC VTEC swap, ECU, Super Induction Box air cleaner, exhaust, lowering kit
 
 ## Honda EG-6 Civic SiR
@@ -117,6 +116,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
 * **Drivetrain:** FR
 ??? note "Notes"
     * Color: Crystal White
+    * Body kit based on Ryosuke Takahashi's car from *Initial D*.
     * Savanna name not used in the English version, as the car was sold without that moniker outside of Japan. Even in the Japanese version, the Savanna name is also not used in the car selection screen, only in the car logo during attract mode.
     * Dev-described tuning: ECU, intake manifolds, dual exhausts, blow-off valve, lowering kit, clutch
 
@@ -127,7 +127,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
 * **Weight:** 1430 kg
 * **Engine:** RB26DETT DOHC Twin Turbo
     <br>2568cc
-    <br>280PS/6800r.p.m. *(397PS/7500 r.p.m.)*
+    <br>280PS/6800r.p.m. *(397PS/7500r.p.m.)*
     <br>36.0kg-m/4400r.p.m. *(40.0kg-m/5500r.p.m.)*
 * **Drivetrain:** 4WD
 ??? note "Notes"
@@ -157,7 +157,7 @@ Spec data in *italics* are what the in-game cars' true specifications [according
 * **Weight:** 1350 kg
 * **Engine:** 4G63 16 Valve DOHC Turbo
     <br>1994cc
-    <br>280PS/6500r.p.m. *(293PS/7000 r.p.m.)*
+    <br>280PS/6500r.p.m. *(293PS/7000r.p.m.)*
     <br>36.0kg-m/4000r.p.m.
 * **Drivetrain:** 4WD
 ??? note "Notes"
@@ -172,12 +172,13 @@ Spec data in *italics* are what the in-game cars' true specifications [according
 * **Weight:** 1380 kg
 * **Engine:** 3S-GTE 16 Valve DOHC Turbo
     <br>1998cc
-    <br>225PS/6500r.p.m. *(293PS/7000r.p.m.)*
+    <br>255PS/6500r.p.m. *(293PS/7000r.p.m.)*
     <br>31.0kg-m/4000r.p.m.
 * **Drivetrain:** 4WD
 ??? note "Notes"
     * Color: Super White II
     * Equipped with OZ 5-spoke wheel (WRC style?)
+    * The in-game specifications has a typo where the listed horsepower was only 225PS. This was fixed in *Battle Gear*; for purposes of this list, the corrected power is included.
     * Although not indicated anywhere in the game, the car in the game is actually the WRC edition model. This was made clear in *Side by Side Special* by adding "WRC" to car's name.
     * Dev-described tuning: ECU, misfiring system/anti-lag, "floating" air restrictor mount (probably the same type that got Toyota Team Europe in trouble with the FIA?)
  
