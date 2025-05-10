@@ -4,8 +4,8 @@
 
 ## Toyota
 
-### Toyota AE86 Levin GT
-![TOYOTA AE86 LEVIN GT](../images/cars/sbss/sbss_ae86l.png)
+### Toyota AE86 Corolla Levin GT
+![TOYOTA AE86 COROLLA LEVIN GT](../images/cars/sbss/sbss_ae86l.png)
 
 * **Dimension:** 4180mm×1625mm×1335mm
 * **Weight:** 925 kg
@@ -20,8 +20,8 @@
       * Trim changed to "GT" from "GT-Apex" that it originally had in *Side by Side 2* (although the "Apex" decal is still impliable in the textures). Additionally, in the demo disc build, the game still explicitly refers it as an GT-Apex trim.
       * Wheel changed from a gold mesh wheel to RS Watanabe 8-Spoke wheel as used in the Trueno.
     
-### Toyota AE86 Trueno GTV
-![TOYOTA AE86 TRUENO GTV](../images/cars/sbss/sbss_ae86t.png)
+### Toyota AE86 Sprinter Trueno GTV
+![TOYOTA AE86 SPRINTER TRUENO GTV](../images/cars/sbss/sbss_ae86t.png)
 
 * **Dimension:** 4205mm×1625mm×1335mm
 * **Weight:** 940 kg 
