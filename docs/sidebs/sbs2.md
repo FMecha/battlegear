@@ -1,6 +1,6 @@
 ![Side by Side 2 Evoluzione logo](../images/logos/sidebs2.gif)
 
-*Nice to see ya again.*
+*"Nice to see ya again."*
 
 The second game in the series, [releasing in May 1997 in Japan](https://archive.org/details/ArcadeGameList1971-2005/page/n46/mode/1up?view=theater) with the RR update releasing several months later.
 
