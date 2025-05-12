@@ -129,9 +129,9 @@ plugins:
   - git-committers:
       repository: fmecha/battlegear
       branch: main
-  - social:
-      cards_color:
-        fill: "#3E3E3E"
+ #- social:
+ #    cards_color:
+ #      fill: "#3E3E3E"
   - search:
       lang: en
   - glightbox
