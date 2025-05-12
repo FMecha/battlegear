@@ -56,7 +56,7 @@ The hardest track in the first *Side by Side*, but clearly the easist out of all
 ![Special](../images/tracks/sbs/sbs1_special.gif)
 
 * Japanese name: 弩級 -春- (Ishiyumi-kyu -Kyoku-)
-  * In English, this translates to Dreadnought -Extreme-. 
+ * In English, this translates to Dreadnought -Extreme-. 
 * Default music: Blue Wind (SBS1)/Thawing (SBSS)
 * *Hold the view button after the screen blacks out after coining up to unlock this track.* (This track is available by default in *Side by Side Special*.)
 
@@ -113,8 +113,8 @@ Based on Myogi, this track is probably one of the hardest circuit course in the 
 
 ![22:00 / Special](../images/tracks/sbs/sbs2_22_00.png)
 
-* Japanese name: 超弩級 -亥の刻- (Chodo-kyu -Inokoku-)
-  * In English, this translates to Super Dreadnought -Time of the Boar-. In traditional Japanese timekeeping, boar symbolizes late evenings (from 10 pm to midnight).
+* Japanese name: 超弩級 -亥の刻- (Chodo-kyu -I no Koku-)
+ * In English, this translates to Super Dreadnought -Time of the Boar-. In traditional Japanese timekeeping, boar symbolizes late evenings (from 10 pm to midnight).
 * Default music: Midnight
 * *Hold the view button after the screen blacks out after coining up to unlock this track temporaily; set a record in the leaderboards to unlock this track permanently.* (This track is already unlocked by default in *Side by Side 2 Evoluzione RR* update and in *Side by Side Special*; however if the track is already unlocked in SBS2, the track selection will be focused to this track by default.)
 * *As this is a point-to-point course, no track map will be shown during the race.*
@@ -147,8 +147,8 @@ Winning at this track will unlock the Taito Van.
 
 ![0:00 / Original 2](../images/tracks/sbs/sbss_0_00.png)
 
-* Japanese name: 超弩級 -子の刻- (Ishiyumi-kyu -Nenokoku-)
-  * In English, this translates to Super Dreadnought -Time of the Rat-. In traditional Japanese timekeeping, rat symbolizes midnight (from 12 am to 1 am)
+* Japanese name: 超弩級 -子の刻- (Ishiyumi-kyu -Ne no Koku-)
+ * In English, this translates to Super Dreadnought -Time of the Rat-. In traditional Japanese timekeeping, rat symbolizes midnight (from 12 am to 1 am)
 * Default music: Midnight
 * *Unlocked by winning in at least eight previously unlocked tracks.*
 
@@ -160,8 +160,8 @@ Winning at this track will unlock the Taito 1BOX.
 
 ![2:00 / Original 3](../images/tracks/sbs/sbss_2_00.png)
 
-* Japanese name: 超弩級 -亥の刻- (Ishiyumi-kyu -Nenokoku-)
-  * In English, this translates to Super Dreadnought -Time of the Ox-. In traditional Japanese timekeeping, ox/bullock symbolizes the time between midnight and before dawn (between 2 am to 4 am).
+* Japanese name: 超弩級 -丑の刻- (Ishiyumi-kyu -Ushi no Koku-)
+ * In English, this translates to Super Dreadnought -Time of the Ox-. In traditional Japanese timekeeping, ox/bullock symbolizes the time between midnight and before dawn (between 2 am to 4 am).
 * Default music: Midnight
 * *Unlocked by winning in at least ten previously unlocked tracks.* (Generally, this means all the main tracks; however since the other two original tracks are unlocked at that point, beating them while skipping two regular tracks may also work.)
 
