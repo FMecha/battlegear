@@ -3,7 +3,7 @@
 This page is a list tracks in the *Side by Side* games. Difficulty labels refer to what they are called in the English versions.
 
 !!! note
-    - The difficulty labels in the English versions of *Side by Side* games go from Beginner, Expert, Professional, and Ace Driver (plus Special) in that order. In *Side by Side Special*, there is an unused "Normal* difficulty label (along with the also-unused English difficulty labels) in the game's files that would probably softened the difficulty labels, similar to the first *Battle Gear* where it goes Beginner, Intermediate, Expert, and Professional (plus Special and Trial).
+    - The difficulty labels in the English versions of *Side by Side* games go from Beginner, Expert, Professional, and Ace Driver (plus Special) in that order. In *Side by Side Special*, there is an unused "Normal" difficulty label (along with the also-unused English difficulty labels) in the game's files that would probably softened the difficulty labels, similar to the first *Battle Gear* where it goes Beginner, Intermediate, Expert, and Professional (plus Special and Trial).
     - Course length data is not available, as Taito did not list any of it.
 
 ## Side by Side
