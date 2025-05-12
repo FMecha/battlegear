@@ -15,7 +15,7 @@ The first *Side by Side* tracks are themed after seasons (with kanji to match), 
 
 ### Spring / Beginner
 
-![Spring / Beginner](../docs/images/tracks/sbs/sbs1_spring.gif)
+![Spring / Beginner](../images/tracks/sbs/sbs1_spring.gif)
 
 * Japanese name: 初級 -春- (Sho-kyu -Haru-)
 * Default music: Blue Wind (SBS1)/Theme of Spring (SBSS)
@@ -24,7 +24,7 @@ A fast track suitable for all players, set in the valleys with sakura leaves on 
 
 ### Summer / Expert
 
-![Summer / Expert](../docs/images/tracks/sbs/sbs1_summer.gif)
+![Summer / Expert](../images/tracks/sbs/sbs1_summer.gif)
 
 * Japanese name: 中級 -夏- (Chu-kyu -Natsu-)
 * Default music: Blue Wind (SBS1)/Thawing (SBSS)
@@ -35,7 +35,7 @@ The arcade version of the track has a lighthouse early in the track, which was r
 
 ### Autumn / Professional
 
-![Autumn / Professional](../docs/images/tracks/sbs/sbs1_autumn.gif)
+![Autumn / Professional](../images/tracks/sbs/sbs1_autumn.gif)
 
 * Japanese name: 上級 -秋- (Jo-kyu -Aki-)
 * Default music: Red Road (SBS1)/Red Leaves (SBSS)
@@ -44,7 +44,7 @@ Where things go harder, this mountainous track features narrow roads that can ma
 
 ### Winter / Ace Driver
 
-![Winter / Ace Driver](../docs/images/tracks/sbs/sbs1_winter.gif)
+![Winter / Ace Driver](../images/tracks/sbs/sbs1_winter.gif)
 
 * Japanese name: 超上級 -冬- (Chojo-kyu -Fuyu-)
 * Default music: Red Road (SBS1)/Thawing (SBSS)
@@ -53,7 +53,7 @@ The hardest track in the first *Side by Side*, but clearly the easist out of all
 
 ### Special
 
-![Special](../docs/images/tracks/sbs/sbs1_special.gif)
+![Special](../images/tracks/sbs/sbs1_special.gif)
 
 * Japanese name: 弩級 -春- (Ishiyumi-kyu -Kyoku-)
   * In English, this translates to Dreadnought -Extreme-. 
@@ -71,7 +71,7 @@ The tracks in *Side by Side 2 Evoluzione* are named after traditional Japanese n
 
 ### April / Beginner
 
-![April / Beginner](../docs/images/tracks/sbs/sbs2_april.gif)
+![April / Beginner](../images/tracks/sbs/sbs2_april.gif)
 
 * Japanese name: 初級 -卯月- (Sho-kyu -Uzuki-)
 * Default music: Theme of Spring
@@ -82,7 +82,7 @@ There is a reference not only to a certain tofu shop, but also to a certain bicy
 
 ### March / Expert
 
-![March / Expert](../docs/images/tracks/sbs/sbs2_march.gif)
+![March / Expert](../images/tracks/sbs/sbs2_march.gif)
 
 * Japanese name: 中級 -弥生- (Chu-kyu -Yayoi-)
 * Default music: Thawing
@@ -91,7 +91,7 @@ Based on Usui during the sunset of a late winter, ready to transition to spring.
 
 ### July / Professional
 
-![July / Professional](../docs/images/tracks/sbs/sbs2_july.gif)
+![July / Professional](../images/tracks/sbs/sbs2_july.gif)
 
 * Japanese name: 上級 -文月- (Jo-kyu -Fumizuki-)
 * Default music: Midnight
@@ -102,7 +102,7 @@ In the arcade game, there are fireworks as the player crosses the bridge. The fi
 
 ### October / Ace Driver
 
-![October / Ace Driver](../docs/images/tracks/sbs/sbs2_october.gif)
+![October / Ace Driver](../images/tracks/sbs/sbs2_october.gif)
 
 * Japanese name: 超上級 -神無月- (Chojo-kyu -Kannazuki-)
 * Default music: Red Leaves
@@ -111,7 +111,7 @@ Based on Myogi, this track is probably one of the hardest circuit course in the 
 
 ### 22:00 / Special
 
-![22:00 / Special](../docs/images/tracks/sbs/sbs2_22_00.png)
+![22:00 / Special](../images/tracks/sbs/sbs2_22_00.png)
 
 * Japanese name: 超弩級 -亥の刻- (Chodo-kyu -Inokoku-)
   * In English, this translates to Super Dreadnought -Time of the Boar-. In traditional Japanese timekeeping, boar symbolizes late evenings (from 10 pm to midnight).
@@ -121,7 +121,7 @@ Based on Myogi, this track is probably one of the hardest circuit course in the 
 
 The first point-to-point touge course in the series, based on Akina/Haruna. There is no map to help you here (at least, not until English versions of *Battle Gear 2*), so memorization of the layout is equally as important as using everything you have learned so far from playing the game.
 
-For the arcade version of the track, the opponents here feature [special tuning and wheels not accessible to the player,](../sbs2_car##special2200-course-tuned-cars) the former to emphasize the difficulty.
+For the arcade version of the track, the opponents here feature [special tuning and wheels not accessible to the player,](../sbs2_car.md#special2200-course-tuned-cars) the former to emphasize the difficulty.
 
 Winning on this track will play the ending credits.
 
@@ -131,9 +131,9 @@ Winning on this track will play the ending credits.
 
 As with the 22:00 track from SBS2, due to the point-to-point nature of these tracks, no track maps are shown.
 
-# June / Original 1
+### June / Original 1
 
-![June / Original 1](../docs/images/tracks/sbs/sbss_june.png)
+![June / Original 1](../images/tracks/sbs/sbss_june.png)
 
 * Japanese name: 超弩級 -水無月- (Chodo-kyu -Minazuki-)
 * Default music: Thawing
@@ -143,9 +143,9 @@ The only daytime "original" track in the game, this track is based on the northe
 
 Winning at this track will unlock the Taito Van.
 
-# 0:00 / Original 2
+### 0:00 / Original 2
 
-![0:00 / Original 2](../docs/images/tracks/sbs/sbss_0_00.png)
+![0:00 / Original 2](../images/tracks/sbs/sbss_0_00.png)
 
 * Japanese name: 超弩級 -子の刻- (Ishiyumi-kyu -Nenokoku-)
   * In English, this translates to Super Dreadnought -Time of the Rat-. In traditional Japanese timekeeping, rat symbolizes midnight (from 12 am to 1 am)
@@ -156,9 +156,9 @@ Based on the south Akagi (Route 4 Maebashi-Akagi Line) made famous by *Initial D
 
 Winning at this track will unlock the Taito 1BOX.
 
-# 2:00 / Original 3
+### 2:00 / Original 3
 
-![2:00 / Original 3](../docs/images/tracks/sbs/sbss_2_00.png)
+![2:00 / Original 3](../images/tracks/sbs/sbss_2_00.png)
 
 * Japanese name: 超弩級 -亥の刻- (Ishiyumi-kyu -Nenokoku-)
   * In English, this translates to Super Dreadnought -Time of the Ox-. In traditional Japanese timekeeping, ox/bullock symbolizes the time between midnight and before dawn (between 2 am to 4 am).
