@@ -64,7 +64,7 @@ The only "dreadnought" course in the *Side by Side*/*Battle Gear* series to be a
 
 ## Side by Side 2 Evoluzione
 
-The tracks in *Side by Side 2 Evoluzione* are named after traditional Japanese names for months (and time, as per [traditional Japanese clock](https://en.wikipedia.org/wiki/Japanese_clock). This pattern also applies to the three bonus tracks in *Side by Side Special*.
+The tracks in *Side by Side 2 Evoluzione* are named after traditional Japanese names for months (and time, as per [traditional Japanese clock](https://en.wikipedia.org/wiki/Japanese_clock)). This pattern also applies to the three bonus tracks in *Side by Side Special*.
 
 !!! note
     There is a bug in *Side by Side Special* (and in early builds of *Side by Side 2* as shown on the game's flyer) where the month labels for the Professional and Ace Driver courses are switched around. This website uses the correct order as used in the final version of *Side by Side 2* when referring to the two affected tracks.
@@ -158,7 +158,7 @@ Winning at this track will unlock the Taito 1BOX.
 
 ![2:00 / Original 3](../images/tracks/sbs/sbss_2_00.png)
 
-* Japanese name: 超弩級 -丑の刻- (Ishiyumi-kyu -Ushi no Koku-; in English, this translates to Super Dreadnought -Time of the Ox-. In traditional Japanese timekeeping, ox/bullock symbolizes the time between midnight and before dawn (between 2 am to 4 am).
+* Japanese name: 超弩級 -丑の刻- (Ishiyumi-kyu -Ushi no Koku-; in English, this translates to Super Dreadnought -Time of the Ox-. In traditional Japanese timekeeping, ox/bullock symbolizes the time between midnight and before dawn, between 2 am to 4 am).
 * Default music: Midnight
 * *Unlocked by winning in at least ten previously unlocked tracks.* (Generally, this means all the main tracks; however since the other two original tracks are unlocked at that point, beating them while skipping two regular tracks may also work.)
 
