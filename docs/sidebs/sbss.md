@@ -36,6 +36,7 @@ See the [SBS Tracks page.](../sidebs/tracks.md)
 - Some of car colors and wheels have been changed from the arcade games (see the cars page).
 - Tracks from the first *Side by Side* now has start/checkpoint/finish signs and track maps from *Side by Side 2*. (According to the files in the standalone demo disc build, SBS1 tracks originally would have kept track maps based in style of the original game.)
 - Car specifications are not shown during attract mode - only lap leaderboards are shown.
+- The "3, 2, 1, go!" annoucer voice is different, compared to that present in *Side by Side 2*.
 
 ### *Special* vs *Special 2000*
 
