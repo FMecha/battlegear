@@ -19,6 +19,7 @@
       * Unlike in *Battle Gear* games, the Levin in this game is the 2-door/coupe model.
       * Trim changed to "GT" from "GT-Apex" that it originally had in *Side by Side 2* (although the "Apex" decal is still impliable in the textures). Additionally, in the demo disc build, the game still explicitly refers it as an GT-Apex trim.
       * Wheel changed from a gold mesh wheel to RS Watanabe 8-Spoke wheel as used in the Trueno.
+      * [The manual incorrectly lists the displacement from the GT-Rs instead (2568cc).](https://ia801805.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/sidebyside_202101/sidebyside_jp2.zip&file=sidebyside_jp2/sidebyside_0006.jp2&id=sidebyside_202101&scale=2&rotate=0)
     
 ### Toyota AE86 Sprinter Trueno GTV
 ![TOYOTA AE86 SPRINTER TRUENO GTV](../images/cars/sbss/sbss_ae86t.png)
@@ -33,6 +34,7 @@
 ??? note "Notes"
       * Color: High-Tech Two-Tone
       * Equipped with RS Watanabe 8-Spoke wheels.
+      * [The manual incorrectly lists the displacement from the GT-Rs instead (2568cc).](https://ia801805.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/sidebyside_202101/sidebyside_jp2.zip&file=sidebyside_jp2/sidebyside_0006.jp2&id=sidebyside_202101&scale=2&rotate=0)
 
 ### Toyota ST205 Celica GT-Four WRC
 ![Toyota ST205 CELICA GT-FOUR WRC](../images/cars/sbss/sbss_st205.png)
