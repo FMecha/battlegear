@@ -167,7 +167,7 @@
 * **Drivetrain:** FF
 ??? note "Notes"
       * Color: Torino Red Pearl
-      * Equipped with full body color body kit.
+      * Equipped with full body color body kit and Work Meister wheels.
       * Only appearance for the CR-X in the *Side by Side*/*Battle Gear* series (barring *Side by Side 2*).
       * Front license plate added.
 
