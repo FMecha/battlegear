@@ -41,8 +41,8 @@ Spec data in *italics* are what the in-game cars' true specifications [according
       * Dev-described tuning: "fully tuned 7A-GEU swap". (Toyota never made an engine designated like this, so it would have been custom build consisting of 7A-FE block and crank mixed with 4A-GE heads and pistons mated with custom connecting rods.)
       * In *Evoluzione RR* update, the AE86s now has a six-speed transmission.
  
-## Honda CR-X EF-8 SiR
-![HONDA CR-X EF-8 SiR](../images/cars/sbs2/sidebs2_ef8.png)
+## Honda EF-8 CR-X SiR
+![HONDA EF-8 CR-X SiR](../images/cars/sbs2/sidebs2_ef8.png)
 
 * **Dimension:** 3800mm×1675mm×1270mm
 * **Weight:** 970 kg *(900 kg)*
